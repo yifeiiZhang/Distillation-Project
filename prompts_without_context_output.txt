@@ -1,0 +1,4000 @@
+Prompt 1:
+Question: What term characterizes the intersection of the rites with the Roman Catholic Church?
+Answer: full union
+--------------------------------------------------------------------------------
+Prompt 2:
+Question: What was Alexandria known for?
+Answer: important trade center
+--------------------------------------------------------------------------------
+Prompt 3:
+Question: How do the leaders of the Jehovah's Witnesses cultivate a system of unquestioning obedience?
+Answer: disparaging individual decision-making
+--------------------------------------------------------------------------------
+Prompt 4:
+Question: What are the most common foods in Estonia?
+Answer: black bread, pork, potatoes, and dairy products.
+--------------------------------------------------------------------------------
+Prompt 5:
+Question: What was the medieval flute made from?
+Answer: wood
+--------------------------------------------------------------------------------
+Prompt 6:
+Question: What was used to set the year number?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 7:
+Question: Where did the imperial family live?
+Answer: Kyoto
+--------------------------------------------------------------------------------
+Prompt 8:
+Question: What was part of the territory of bishopric 
+Answer: not only included the modern province of Utrecht (Nedersticht, 'lower Sticht'), but also extended to the northeast
+--------------------------------------------------------------------------------
+Prompt 9:
+Question: What was the change in profit to Au Bon Marche after these changes? 
+Answer: increased from 500,000 francs in 1852 to five million in 1860
+--------------------------------------------------------------------------------
+Prompt 10:
+Question: An ARM architecture computer can be found in what?
+Answer: a PDA or a hand-held videogame
+--------------------------------------------------------------------------------
+Prompt 11:
+Question: What were many pieces of secular art carved from in this period?
+Answer: ivory
+--------------------------------------------------------------------------------
+Prompt 12:
+Question: How do Jehovah's Witnesses see themselves in regards to the power structure of the church?
+Answer: "part of the power structure rather than subject to it."
+--------------------------------------------------------------------------------
+Prompt 13:
+Question: From what other Germanic language does Estonian derive its vocabulary?
+Answer: High German
+--------------------------------------------------------------------------------
+Prompt 14:
+Question: How are the terminals of high voltage capacitors stored?
+Answer: with the terminals shorted
+--------------------------------------------------------------------------------
+Prompt 15:
+Question: Where is the Cubs' current spring  training facility located?
+Answer: Sloan Park
+--------------------------------------------------------------------------------
+Prompt 16:
+Question: What is the name of the football club in Nanjing?
+Answer: Jiangsu Sainty
+--------------------------------------------------------------------------------
+Prompt 17:
+Question: What material results from chemically breaking down wood?
+Answer: cellulose
+--------------------------------------------------------------------------------
+Prompt 18:
+Question: Which is the most common variant of case in text?
+Answer: lowercase
+--------------------------------------------------------------------------------
+Prompt 19:
+Question: Where did the Slavs that assimilated into the Magyar or Romanian population remain?
+Answer: Carpathian basin
+--------------------------------------------------------------------------------
+Prompt 20:
+Question: What does a court need to imprison a member of the nobility? 
+Answer: warrant from a court of justice
+--------------------------------------------------------------------------------
+Prompt 21:
+Question: When did English Chief Justice Sir Edward Coke speak in the Case of Prohibitions?
+Answer: 1607
+--------------------------------------------------------------------------------
+Prompt 22:
+Question: What substances emit water vapor back to the atmosphere?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 23:
+Question: What is the invariant interval between time is independent of?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 24:
+Question: What variation of house music was produced by artists such as Madonna and Kylie Minogue?
+Answer: a more mainstream pop-based variation
+--------------------------------------------------------------------------------
+Prompt 25:
+Question: Which of the Tuvalu isalnds did de Peyster see?
+Answer: Nukufetau and Funafuti
+--------------------------------------------------------------------------------
+Prompt 26:
+Question: What provides critical support for drug discovery and the availability of economic resources?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 27:
+Question: What opened the door to plant genetic engineering?
+Answer: all plant cells are totipotent
+--------------------------------------------------------------------------------
+Prompt 28:
+Question: Which former Fed Chair confessed in Congressional testimony to being forced to return to lax monetary supply?
+Answer: Alan Greenspan
+--------------------------------------------------------------------------------
+Prompt 29:
+Question: Which letters remain distinct?
+Answer: /a u i/
+--------------------------------------------------------------------------------
+Prompt 30:
+Question: How many years do momotremes and therian mammals go back?
+Answer: 167 million years
+--------------------------------------------------------------------------------
+Prompt 31:
+Question: What ship did the Duchess of Cambridge christen on June 13, 2013?
+Answer: Royal Princess
+--------------------------------------------------------------------------------
+Prompt 32:
+Question: Pork products are left to ferment in what?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 33:
+Question: What is the name of the small Christian college in Guam?
+Answer: Pacific Islands University
+--------------------------------------------------------------------------------
+Prompt 34:
+Question: Why did Irving not want to be in Spielberg's films while dating?
+Answer: "I don't want to be known as Steven's girlfriend,"
+--------------------------------------------------------------------------------
+Prompt 35:
+Question: What year was the creation of the Kiev Metropolis?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 36:
+Question: What is the advantage of a coiled-coil filament over a straight filament?
+Answer: The coiled-coil filament evaporates more slowly
+--------------------------------------------------------------------------------
+Prompt 37:
+Question: How was Shiva accidentally wounded to later die?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 38:
+Question: What did Douglas J. Futuyama consider the concept of race as not only being socially dysfunctional but this as well?
+Answer: biologically indefensible
+--------------------------------------------------------------------------------
+Prompt 39:
+Question: On which floor is the Belgian Suite located?
+Answer: the ground floor
+--------------------------------------------------------------------------------
+Prompt 40:
+Question: What are two main groups prokaryotes can be divided into?
+Answer: Bacteria and Archaea
+--------------------------------------------------------------------------------
+Prompt 41:
+Question: When did Houston start using light rail lines?
+Answer: January 1, 2004
+--------------------------------------------------------------------------------
+Prompt 42:
+Question: If someone is not bilingual and only speaks Spanish, how do they learn about current events?
+Answer: There are 500 Spanish newspapers, 152 magazines, and 205 publishers in the United States; magazine and local television
+--------------------------------------------------------------------------------
+Prompt 43:
+Question: What was the first mascot of Northwestern Athletics?
+Answer: a live, caged bear cub from the Lincoln Park Zoo
+--------------------------------------------------------------------------------
+Prompt 44:
+Question: What mosque was built with a dome in the 6th century?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 45:
+Question: What is the only metal used in pipe organs?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 46:
+Question: Being exposed to what type of pollution has been theorized to increase aggression?
+Answer: lead
+--------------------------------------------------------------------------------
+Prompt 47:
+Question:  What did Washington not do after defeating the British Army?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 48:
+Question: What does CBC use unallotted airtime for?
+Answer: local news, primetime series, movies and other programming from the CBC library
+--------------------------------------------------------------------------------
+Prompt 49:
+Question: What holy document takes the view of Mary back to the creation of man and woman ?
+Answer: papal bull defining the dogma, Ineffabilis Deus
+--------------------------------------------------------------------------------
+Prompt 50:
+Question: Which of two can be more efficiently electricified?
+Answer: Central station
+--------------------------------------------------------------------------------
+Prompt 51:
+Question: At what point does barley have it's hull broken up into pieces?
+Answer: After malting
+--------------------------------------------------------------------------------
+Prompt 52:
+Question: What type of starch is used to make the beer Oshikundu?
+Answer: sorghum or millet
+--------------------------------------------------------------------------------
+Prompt 53:
+Question: The diesel train can save energy by regenerative what?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 54:
+Question: What would the loss of the SCN cells cause in the sleep-wake rhythm?
+Answer: complete absence
+--------------------------------------------------------------------------------
+Prompt 55:
+Question: How many Emmy awards did Ray of Light won?
+Answer: four
+--------------------------------------------------------------------------------
+Prompt 56:
+Question: What declaration did Arthur Holly Compton make about athletics at Washington University?
+Answer: athletics were to be henceforth played on a "strictly amateur" basis with no athletic scholarships.
+--------------------------------------------------------------------------------
+Prompt 57:
+Question: What does the Combat V mean?
+Answer: heroic achievement
+--------------------------------------------------------------------------------
+Prompt 58:
+Question: What does LCPS stand for?
+Answer: low cost private schools
+--------------------------------------------------------------------------------
+Prompt 59:
+Question: Which traditional branches of the military does Burma have?
+Answer: Army, the Navy, and the Air Force
+--------------------------------------------------------------------------------
+Prompt 60:
+Question: Where must enclitics appear in an English sentence?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 61:
+Question: How many times were FBI shots not justified?
+Answer: 5 cases
+--------------------------------------------------------------------------------
+Prompt 62:
+Question: Who was the Japanese Pure Land teacher?
+Answer: Genshin
+--------------------------------------------------------------------------------
+Prompt 63:
+Question: How long was Nunez president of Barcelona?
+Answer: 22 years
+--------------------------------------------------------------------------------
+Prompt 64:
+Question: The Belavezha Accords consisted of how many articles?
+Answer: fourteen
+--------------------------------------------------------------------------------
+Prompt 65:
+Question: When did Japan finish building the Hakata Bay barrier?
+Answer: 1277
+--------------------------------------------------------------------------------
+Prompt 66:
+Question: What is the largest religion in St. John's?
+Answer: Christian
+--------------------------------------------------------------------------------
+Prompt 67:
+Question: Lacking a sea, how can the islands be reached?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 68:
+Question: What ethnicity emerged following the Middle Ages?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 69:
+Question: What did a 2008 US Pew Forum on Religion & Public Life survey discover about Jehovah's Witnesses' retention rate?
+Answer: low
+--------------------------------------------------------------------------------
+Prompt 70:
+Question: What does the Marshall Islands government call Wake Island?
+Answer: Enen-kio
+--------------------------------------------------------------------------------
+Prompt 71:
+Question: What is the study of organic compounds properties known as?
+Answer: organic chemistry
+--------------------------------------------------------------------------------
+Prompt 72:
+Question: Ruins of merchants' homes that survive today are evidence that Southampton had rich people in what century?
+Answer: 12th
+--------------------------------------------------------------------------------
+Prompt 73:
+Question: Where is Catalan the only official language?
+Answer: Andorra
+--------------------------------------------------------------------------------
+Prompt 74:
+Question: What term replaced Vitruvius' term "utility"?
+Answer: Function
+--------------------------------------------------------------------------------
+Prompt 75:
+Question: According to what school is tathgatagarbha the inseparability of clairty and emptiness of one's mind?
+Answer: Sakya
+--------------------------------------------------------------------------------
+Prompt 76:
+Question: What does he call the merging of economic, political and technological forces that drove the music industry?
+Answer: perfect bubble
+--------------------------------------------------------------------------------
+Prompt 77:
+Question: What is rarely seen in clinical practice?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 78:
+Question: When did Derby resign?
+Answer: 1868
+--------------------------------------------------------------------------------
+Prompt 79:
+Question: What replaced many of the modest boarding houses? 
+Answer: large hotels
+--------------------------------------------------------------------------------
+Prompt 80:
+Question: What did the development of new imperialism cause?
+Answer: the conquest of nearly all eastern hemisphere territories by colonial powers.
+--------------------------------------------------------------------------------
+Prompt 81:
+Question: What land bridge between Asian and Africa?
+Answer: Sinai Peninsula
+--------------------------------------------------------------------------------
+Prompt 82:
+Question: What do many scholars regard the Late Middle Ages as the beginning of?
+Answer: modern history and early modern Europe
+--------------------------------------------------------------------------------
+Prompt 83:
+Question: What is the foggiest Canadian city?
+Answer: St. John's
+--------------------------------------------------------------------------------
+Prompt 84:
+Question: Historians trace the earliest Baptist church back to where?
+Answer: Amsterdam
+--------------------------------------------------------------------------------
+Prompt 85:
+Question: What is the name of the period of armed incursions undertaken in the name of Christianity?
+Answer: the Crusades
+--------------------------------------------------------------------------------
+Prompt 86:
+Question: Youtube offers users the option to watch content where?
+Answer: outside their website
+--------------------------------------------------------------------------------
+Prompt 87:
+Question: What politician fought against statehood for Puerto Rico?
+Answer: Governor-elect Alejandro García Padilla
+--------------------------------------------------------------------------------
+Prompt 88:
+Question: What element in Spanish is more prominent than in Catalan?
+Answer: Arabic element
+--------------------------------------------------------------------------------
+Prompt 89:
+Question: What kind of laws had been proposed and passed in the late 19th century in South Carolina?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 90:
+Question: How much solar energy is captured by photosynthesis?
+Answer: approximately 3,000 EJ per year
+--------------------------------------------------------------------------------
+Prompt 91:
+Question: According to market research, who does Microsoft draw it's customer base from?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 92:
+Question: What does Drivers of Change promote?
+Answer: understanding corruption
+--------------------------------------------------------------------------------
+Prompt 93:
+Question: Why does the alpine area fluctuate greatly?
+Answer: because of regional fluctuations in tree lines.
+--------------------------------------------------------------------------------
+Prompt 94:
+Question: What percentage of the June 2010 graduates received federal or private loans?
+Answer: Approximately 44
+--------------------------------------------------------------------------------
+Prompt 95:
+Question: What work is associated with Guhyasamaja tradition?
+Answer: The Guhyasiddhi of Padmavajra
+--------------------------------------------------------------------------------
+Prompt 96:
+Question: The time span that is counted as the classical for the Greeks is from eras ?
+Answer: classical period of Greek civilization covers a time spanning from the early 5th century BC to the death of Alexander the Great, in 323 BC
+--------------------------------------------------------------------------------
+Prompt 97:
+Question: Another term for tagma is?
+Answer: thorax
+--------------------------------------------------------------------------------
+Prompt 98:
+Question: Whose thoughts were impacted by Montesquieu's philosophy?
+Answer: the framers of the United States Constitution
+--------------------------------------------------------------------------------
+Prompt 99:
+Question:  What is an example of Domestic Style?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 100:
+Question: What device is often used in conjuntion with the antenna?
+Answer: radio transmitter or radio receiver
+--------------------------------------------------------------------------------
+Prompt 101:
+Question: What does ASI stand for?
+Answer: additional skill identifier
+--------------------------------------------------------------------------------
+Prompt 102:
+Question: Which type of schooling can be most expensive?
+Answer: Online courses
+--------------------------------------------------------------------------------
+Prompt 103:
+Question: Who founded the Ottoman empire?
+Answer: Oghuz Turks
+--------------------------------------------------------------------------------
+Prompt 104:
+Question: What was not required of the sisters to wear?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 105:
+Question:  Who discovered the incompleteness theorem of 1961?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 106:
+Question: What did emperors before Diocletian try to guarantee in religion? 
+Answer: traditional cults
+--------------------------------------------------------------------------------
+Prompt 107:
+Question: Spoleto Festival Uk is a counterpart to what Italian festival?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 108:
+Question: When authorities could no longer calculate the risks of complex financial innovation products, who did they rely on for information?
+Answer: the banks
+--------------------------------------------------------------------------------
+Prompt 109:
+Question: What may slow pesticide movement?
+Answer: Adsorption to soil
+--------------------------------------------------------------------------------
+Prompt 110:
+Question: What was the name of the treaty signed by France and Austria on 26 December?
+Answer: the Treaty of Pressburg
+--------------------------------------------------------------------------------
+Prompt 111:
+Question: Where did the Cubs move to after leaving the West Side Grounds?
+Answer: Weeghman Park
+--------------------------------------------------------------------------------
+Prompt 112:
+Question: In what year did the Sweet Adelines become an international group?
+Answer: 1953
+--------------------------------------------------------------------------------
+Prompt 113:
+Question: What is a muslims life purpose?
+Answer: to worship God
+--------------------------------------------------------------------------------
+Prompt 114:
+Question: What are former titles once held by the Prime Minister of the UK?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 115:
+Question: Who founded Motown records?
+Answer: Berry Gordy, Jr.
+--------------------------------------------------------------------------------
+Prompt 116:
+Question: What were redware ceramics made from?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 117:
+Question: What size pores form early in ring-porous woods' growing season?
+Answer: large
+--------------------------------------------------------------------------------
+Prompt 118:
+Question: Which level do many common operating systems meet?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 119:
+Question: What people had been united since the Reformation?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 120:
+Question: At approximately what time did paramedics receive the call about Kanye West's mother, Donda?
+Answer: 7:35 pm
+--------------------------------------------------------------------------------
+Prompt 121:
+Question: How many candidates did John Kerry name as potential prospects to be his running mate?
+Answer: three
+--------------------------------------------------------------------------------
+Prompt 122:
+Question: During what years did the Mongol leader Kublai Khan rule?
+Answer: 1402–1424
+--------------------------------------------------------------------------------
+Prompt 123:
+Question: Who cast the Sanctus bell?
+Answer: Richard Phelps and Thomas Lester
+--------------------------------------------------------------------------------
+Prompt 124:
+Question: What has happen in New Haven Green during the 2000s?
+Answer: experienced an influx of apartments
+--------------------------------------------------------------------------------
+Prompt 125:
+Question: The Civil War had many effects after the war, what was the main effect for New Haven?
+Answer: population grew and doubled
+--------------------------------------------------------------------------------
+Prompt 126:
+Question: Who did the English ally with in the war?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 127:
+Question: Who is Elizabeth's oldest child?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 128:
+Question: The Allied defeat at what location caused Emperor Francis to doubt the chances of the war effort?
+Answer: Austerlitz
+--------------------------------------------------------------------------------
+Prompt 129:
+Question: Which way do Vampirovibrio absorb nutrients of other microorganisms?
+Answer: attach to their prey in order to digest them
+--------------------------------------------------------------------------------
+Prompt 130:
+Question: What is the second airport that serves Houston?
+Answer: William P. Hobby Airport
+--------------------------------------------------------------------------------
+Prompt 131:
+Question: In 1925, what rule did Estonia create that was unique in Europe?
+Answer: The Estonian Cultural Autonomy law
+--------------------------------------------------------------------------------
+Prompt 132:
+Question: During what period were proponents of Italian Unification stressing the importance of establishing a uniform national language?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 133:
+Question: Which topics of public controversy became more widely discussed around 1725?
+Answer: theories of Newton and Descartes, the slave trade, women's education, and justice
+--------------------------------------------------------------------------------
+Prompt 134:
+Question: How long is Hormuud's cable network?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 135:
+Question: Where does rationalism say knowledge comes from?
+Answer: reason independently of the senses
+--------------------------------------------------------------------------------
+Prompt 136:
+Question: Does the halogen bulp increase, reduce, or have no effect on filament evaporation?
+Answer: reduces
+--------------------------------------------------------------------------------
+Prompt 137:
+Question: When did the group After Dark perform MSNBC?
+Answer: 2008
+--------------------------------------------------------------------------------
+Prompt 138:
+Question: What is the function of Tyson Research Center?
+Answer: a biological field station and research/education center.
+--------------------------------------------------------------------------------
+Prompt 139:
+Question: What  type of lighting uses lights that are hung or clipped to bare metal cables?
+Answer: cable lighting
+--------------------------------------------------------------------------------
+Prompt 140:
+Question: What did BYU have 28 of in 2006?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 141:
+Question: What factor was credited to the large number of German casualties?
+Answer: effectiveness of the chassepot rifle
+--------------------------------------------------------------------------------
+Prompt 142:
+Question: In what country isn't Spoleto located?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 143:
+Question: When was KU's first student union constructed?
+Answer: 1926
+--------------------------------------------------------------------------------
+Prompt 144:
+Question: What kind of legislature is the Provincial Assembly?
+Answer: unicameral
+--------------------------------------------------------------------------------
+Prompt 145:
+Question: What present-day country did Avicenna die in?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 146:
+Question: When did the single tectonic plate break into separate plates?
+Answer: the Mesozoic Era
+--------------------------------------------------------------------------------
+Prompt 147:
+Question: What areas were not targeted by Allied bombers?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 148:
+Question: When did Britain and France invade Egypt?
+Answer: November 1956
+--------------------------------------------------------------------------------
+Prompt 149:
+Question: In which area in London is Imperial's main campus located?
+Answer: South Kensington
+--------------------------------------------------------------------------------
+Prompt 150:
+Question: What type of administration did general Mousa Traoré have?
+Answer: dictatorial regime
+--------------------------------------------------------------------------------
+Prompt 151:
+Question: When did the Theatre Royal burn?
+Answer: 1840
+--------------------------------------------------------------------------------
+Prompt 152:
+Question: What stadium host the ACC championship game and the Belk Bowl each year?
+Answer: Charlotte's Bank of America Stadium
+--------------------------------------------------------------------------------
+Prompt 153:
+Question: What Queen album was released in 1976?
+Answer: A Day at the Races
+--------------------------------------------------------------------------------
+Prompt 154:
+Question: What areas does the Brown School Library have represented scholars?
+Answer: social security, health care, health disparities, communication, social and health policy, and individual and family development
+--------------------------------------------------------------------------------
+Prompt 155:
+Question: Rights-holders have complained about Google to which organization?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 156:
+Question: Who implemented the maximum age of 60 years for electors?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 157:
+Question: What cooled allowing water to collect?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 158:
+Question: What is another stopover location?
+Answer: Delaware Bay
+--------------------------------------------------------------------------------
+Prompt 159:
+Question: What is unique about the LaserDisc release of E.T.?
+Answer: only format to include the cut scene of Harrison Ford playing the part of the school headmaster
+--------------------------------------------------------------------------------
+Prompt 160:
+Question: What are polytechnic divisions of national universities called in Canada?
+Answer: Affiliate Schools
+--------------------------------------------------------------------------------
+Prompt 161:
+Question: What popularized the use of conventional genetic erosion to increase yield?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 162:
+Question: Along with Arsenal, Chelsea and UEFA, who else is a member of the Big Four?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 163:
+Question: What to Galician's call themselves in their language?
+Answer: galegos
+--------------------------------------------------------------------------------
+Prompt 164:
+Question: How did Gaddafi deal with peer pressure regarding his cultural background?
+Answer: Bullied for being a Bedouin, he was proud of his identity and encouraged pride in other Bedouin children.
+--------------------------------------------------------------------------------
+Prompt 165:
+Question: By 1794, what did those against the Enlightenment point to as confirmation of their predictions?
+Answer: Terror during the French Revolution
+--------------------------------------------------------------------------------
+Prompt 166:
+Question: What was the topic of the first Solvay Conference?
+Answer: "the theory of radiation and quanta"
+--------------------------------------------------------------------------------
+Prompt 167:
+Question: At what age did Avicenna lose his mother?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 168:
+Question: Along with the Parthians and Axumites, who were the commercial competitors of the ancient Somalis?
+Answer: Sabaeans
+--------------------------------------------------------------------------------
+Prompt 169:
+Question: What year did the Pechenges attack the city of Kiev?
+Answer: 968
+--------------------------------------------------------------------------------
+Prompt 170:
+Question: Who stated "the heart has reasons of which reason does not know"?
+Answer: Pascal
+--------------------------------------------------------------------------------
+Prompt 171:
+Question: Which languages' vocabulary does not reach beyond the Western family of languages?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 172:
+Question: What is important in the numerical systems of hunter-gatherer societies?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 173:
+Question: What does Greece do more than other EU countries in terms of use?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 174:
+Question: What was the first game to use LaserDiscs?
+Answer: Sega's Astron Belt
+--------------------------------------------------------------------------------
+Prompt 175:
+Question: What metal are most overhead electrical wires made out of?
+Answer: aluminium
+--------------------------------------------------------------------------------
+Prompt 176:
+Question: Who felt that looking to these ancient documents for new ideas was not the way to mover forward?
+Answer: A. C. Crombie
+--------------------------------------------------------------------------------
+Prompt 177:
+Question: What is the current spectator seating capacity of Twickenham Stadium?
+Answer: 82,000
+--------------------------------------------------------------------------------
+Prompt 178:
+Question: This produces many modes of vibration that occur simultaneously?
+Answer: sound generated
+--------------------------------------------------------------------------------
+Prompt 179:
+Question: What choir from the area has sung at the Guildhall?
+Answer: Southampton Philharmonic Choir
+--------------------------------------------------------------------------------
+Prompt 180:
+Question: What led sociologist like Stuart and Raymond to focus on class relations and the organization of production?
+Answer: saw patterns of consumption and leisure
+--------------------------------------------------------------------------------
+Prompt 181:
+Question: When didn't the Great Migration occur?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 182:
+Question: Organophospates and carbamates cause which symptoms?
+Answer: weakness or paralysis
+--------------------------------------------------------------------------------
+Prompt 183:
+Question: What did Victoria begin working on after Brown's death?
+Answer: a eulogistic biography
+--------------------------------------------------------------------------------
+Prompt 184:
+Question: When does the Azores High nearly reach the ground?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 185:
+Question: Where does the highest rainfall occur in Namibia?
+Answer: Caprivi
+--------------------------------------------------------------------------------
+Prompt 186:
+Question: The existence of the Confederation of the Rhine brought about the end of which imperial power?
+Answer: the Holy Roman Empire
+--------------------------------------------------------------------------------
+Prompt 187:
+Question: What documentary is about a white man in Georgia?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 188:
+Question: Where exactly is Tajikistan?
+Answer: between latitudes 36° and 41° N (a small area is north of 41°), and longitudes 67° and 75° E (a small area is east of 75°)
+--------------------------------------------------------------------------------
+Prompt 189:
+Question: What country relaxed brewing legislation in 1927?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 190:
+Question: what is a set of permitted states, none of which are characterized by an energy level?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 191:
+Question: What were the biggest danger to Goodman's business strategy?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 192:
+Question: What structure was ordered to be built in New Haven in 1776 to protect the port at the outset of the Revolutionary War?
+Answer: Black Rock Fort
+--------------------------------------------------------------------------------
+Prompt 193:
+Question: Who did Ibn Sina head westward with?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 194:
+Question: What are some critical disease characteristics that should not be evaluated?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 195:
+Question: In what year was the modern City of New York founded?
+Answer: 1898
+--------------------------------------------------------------------------------
+Prompt 196:
+Question: When did Kerry's mother pass away?
+Answer: 2002
+--------------------------------------------------------------------------------
+Prompt 197:
+Question: Who was Ibn Sina's first appontment?
+Answer: the emir, Nuh II
+--------------------------------------------------------------------------------
+Prompt 198:
+Question: Where is rainfall very frequent?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 199:
+Question: What was Victorias place in line of succession to the throne when she was born?
+Answer: fifth
+--------------------------------------------------------------------------------
+Prompt 200:
+Question: Which of the Samoan islands has active volcanoes?
+Answer: Savai'i
+--------------------------------------------------------------------------------
+Prompt 201:
+Question: The Propaganda Due Lodge was also know as what?
+Answer: P2
+--------------------------------------------------------------------------------
+Prompt 202:
+Question: Which emperor suspended the Fujiwara clan's power?
+Answer: Daigo
+--------------------------------------------------------------------------------
+Prompt 203:
+Question: What was prevalent in Brazilian culture during slavery?
+Answer: intermarriage
+--------------------------------------------------------------------------------
+Prompt 204:
+Question: When does evidence show the earliest known barley beer was produced?
+Answer: circa 3500–3100 BC
+--------------------------------------------------------------------------------
+Prompt 205:
+Question: What did Dr. James A. Bean find many of?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 206:
+Question: Where were the graves found?
+Answer: Kurapaty
+--------------------------------------------------------------------------------
+Prompt 207:
+Question: Chapultepec Castle is located where?
+Answer: Chapultepec Park
+--------------------------------------------------------------------------------
+Prompt 208:
+Question: What was Vimara knighted as?
+Answer: First Count of Portus Cale
+--------------------------------------------------------------------------------
+Prompt 209:
+Question: What kind of exhibition game is still popular between major and minor league teams?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 210:
+Question: Who do Watch Tower Society publications claim God has used?
+Answer: Jehovah's Witnesses
+--------------------------------------------------------------------------------
+Prompt 211:
+Question: In what century did the Roman Empire achieve its greatest extent?
+Answer: the 2nd century AD
+--------------------------------------------------------------------------------
+Prompt 212:
+Question: Who planned Raleigh?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 213:
+Question: Whi did Victoria have to live with because she was married?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 214:
+Question: What is the U.S. law that doesn't use the WIPO Copyright as it's Title I?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 215:
+Question: Which company wanted to start its own local record company?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 216:
+Question: How do devices with Windows 8 Enterprise attain apps inside of the Windows Store?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 217:
+Question: In what year did the army start using fixed-wing aircraft?
+Answer: 1910
+--------------------------------------------------------------------------------
+Prompt 218:
+Question: In what year did Quipua die?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 219:
+Question: What type of people did Kanye state had more power than Black people?
+Answer: Jewish people
+--------------------------------------------------------------------------------
+Prompt 220:
+Question: What offers an alternative to soft-ware only computer security?
+Answer: hardware-based or assisted computer security
+--------------------------------------------------------------------------------
+Prompt 221:
+Question: Who decided to sell US reserves of the British pound to cause the pound to collapse?
+Answer: Eisenhower
+--------------------------------------------------------------------------------
+Prompt 222:
+Question: Who wrote the book Khubilai Khan?
+Answer: Rossabi
+--------------------------------------------------------------------------------
+Prompt 223:
+Question: What trader turned author established a post on Tuvalu?
+Answer: Louis Becke
+--------------------------------------------------------------------------------
+Prompt 224:
+Question: The MGM/UA-Turner deal concerned MGM films released prior to what date?
+Answer: May 1986
+--------------------------------------------------------------------------------
+Prompt 225:
+Question: When did Mahmud Ghanznavi conquer Kangara?
+Answer: 10th century
+--------------------------------------------------------------------------------
+Prompt 226:
+Question: This storyline takes place alternate from what storyline?
+Answer: The Wind Waker
+--------------------------------------------------------------------------------
+Prompt 227:
+Question: What brewery did the North American Miller Brewing Company buy in 2002?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 228:
+Question: When did Chrome become more used than all versions of Internet Explorer?
+Answer: May 2012
+--------------------------------------------------------------------------------
+Prompt 229:
+Question: How many species of polychaetes have known lifecycles?
+Answer: about 25%
+--------------------------------------------------------------------------------
+Prompt 230:
+Question: What is Houston's primary airport?
+Answer: George Bush Intercontinental Airport
+--------------------------------------------------------------------------------
+Prompt 231:
+Question: What are the African countries of Benin, Burkina Faso, Chad, and Mali referred to as in the cotton industry?
+Answer: Cotton-4
+--------------------------------------------------------------------------------
+Prompt 232:
+Question: What is the ethnicity of most people living in the Marshall Islands?
+Answer: Marshallese
+--------------------------------------------------------------------------------
+Prompt 233:
+Question: Beckman Music Group is located in which country?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 234:
+Question: Even though piracy adds costs to production, what else is offered to developing countries?
+Answer: main access to media goods
+--------------------------------------------------------------------------------
+Prompt 235:
+Question: What plateau is Oklahoma near?
+Answer: Ozark Plateau
+--------------------------------------------------------------------------------
+Prompt 236:
+Question: What year were cardinals were were bishops have been promoted to Cardinal around the age of 80?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 237:
+Question: When did New York State ban unmarked cars for traffic cops?
+Answer: 1996
+--------------------------------------------------------------------------------
+Prompt 238:
+Question: What can people owning both a PC and 360 do?
+Answer: stream media
+--------------------------------------------------------------------------------
+Prompt 239:
+Question: What are rarely seen nowadays?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 240:
+Question: What Yogacarins asserted that the mind was not truly existent?
+Answer: Vasubandhu and Asanga
+--------------------------------------------------------------------------------
+Prompt 241:
+Question: What did the UAP merge to form?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 242:
+Question: On what island is the capital of the Marshall Islands?
+Answer: Majuro
+--------------------------------------------------------------------------------
+Prompt 243:
+Question: What novel concept was introduced at the end of the 19th century?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 244:
+Question: Who lost the Disraeli general election in 1880?
+Answer: Disraeli
+--------------------------------------------------------------------------------
+Prompt 245:
+Question: The medieval jovens becomes what what word?
+Answer: joves
+--------------------------------------------------------------------------------
+Prompt 246:
+Question: How many member of the assembly were charge with legal possession of firearms?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 247:
+Question: What struggle occured in the 1200's?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 248:
+Question: What kinds of buildings and building developments are the new movements not in favor of?
+Answer: solitary housing estates and suburban sprawl.
+--------------------------------------------------------------------------------
+Prompt 249:
+Question: What was the government being accused of?
+Answer: deftly manipulat(ing) Arab solidarity" to carry out policies of apartheid and ethnic cleansing.
+--------------------------------------------------------------------------------
+Prompt 250:
+Question: In 1995, who decided to manage the girls singing group?
+Answer: Beyoncé's father
+--------------------------------------------------------------------------------
+Prompt 251:
+Question: in what year was the original iPod released?
+Answer: 2001
+--------------------------------------------------------------------------------
+Prompt 252:
+Question: How did Egyptians gather food before raising livestock?
+Answer: fishing, hunting, and the gathering of wild plants
+--------------------------------------------------------------------------------
+Prompt 253:
+Question: Who represented Princeton before the rule changing discussions?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 254:
+Question: What were some groups doing along the torch route that was not supportive of the Olympics?
+Answer: protesting
+--------------------------------------------------------------------------------
+Prompt 255:
+Question: What does Southern Russian have a linguistic continuum with?
+Answer: modern Belarusian and some dialects of Ukrainian (Eastern Polesian)
+--------------------------------------------------------------------------------
+Prompt 256:
+Question: In addition to Durkheim, whose work influenced the development of interaction ritual theory?
+Answer: Goffman
+--------------------------------------------------------------------------------
+Prompt 257:
+Question: Where are seals and otters uncommon?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 258:
+Question: Who manages each CIA branch?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 259:
+Question: How many autonomous republics make up the RSFSR?
+Answer: sixteen
+--------------------------------------------------------------------------------
+Prompt 260:
+Question: What method was used to protect a vinyl record?
+Answer: place the LP in a paper or plastic inner cover
+--------------------------------------------------------------------------------
+Prompt 261:
+Question: What US President wanted to treat Hispanic people as white by the federal government?
+Answer: Roosevelt
+--------------------------------------------------------------------------------
+Prompt 262:
+Question: What expedition found nine meteorites in 1969?
+Answer: Japanese
+--------------------------------------------------------------------------------
+Prompt 263:
+Question: Who demanded protection for Roman Catholic rights in sacred places in Palestine?
+Answer: Charles de La Valette
+--------------------------------------------------------------------------------
+Prompt 264:
+Question: A header and data block together make up what?
+Answer: MP3 frames
+--------------------------------------------------------------------------------
+Prompt 265:
+Question: what is created and changed to non-matter energy?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 266:
+Question: What is the population of New Delhi?
+Answer: 249,998
+--------------------------------------------------------------------------------
+Prompt 267:
+Question: When was the Jordan-Holder theorem published?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 268:
+Question: How much of Pakistan's sugar does Punjab manufacture?
+Answer: 69%
+--------------------------------------------------------------------------------
+Prompt 269:
+Question: Which other Executive Order did the Civil Right's Act not work closely with?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 270:
+Question:  Where do people who are an exception to egalitarianism live?
+Answer: Northwest Coast of North America
+--------------------------------------------------------------------------------
+Prompt 271:
+Question: What 1850 document formally declared the intent to create a unified standard?
+Answer: Vienna Literary Agreement
+--------------------------------------------------------------------------------
+Prompt 272:
+Question: Why might Uranus have more varied weather than Jupiter?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 273:
+Question: What event happened after the Yakuza noticed the sale of the original Famicom?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 274:
+Question: What do most definitions of population rely on?
+Answer: qualitative descriptions
+--------------------------------------------------------------------------------
+Prompt 275:
+Question: Liberia has the lowest ratio of what?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 276:
+Question: Who said in 2008 that China was unsatisfied with its involvement in the Galileo project?
+Answer: the Hong Kong-based South China Morning Post
+--------------------------------------------------------------------------------
+Prompt 277:
+Question: The Brooklyn Dodgers were created in what year?
+Answer: 1882
+--------------------------------------------------------------------------------
+Prompt 278:
+Question: Ho many more times would the cost be if the problem is found after the software's release?
+Answer: 10–100 times more
+--------------------------------------------------------------------------------
+Prompt 279:
+Question: In January 2010, what markets did Mark Zandi testify about that remain impaired and investors anticipate more loan losses?
+Answer: securitization markets
+--------------------------------------------------------------------------------
+Prompt 280:
+Question: What happened in 1912?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 281:
+Question: What did Dominic not fully utilize?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 282:
+Question: Who developed the social bond theory?
+Answer: Scheff
+--------------------------------------------------------------------------------
+Prompt 283:
+Question: What was left unchanged in May of 2010?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 284:
+Question: During what century did Florentine Tuscan begin to be used in poetry?
+Answer: 12th
+--------------------------------------------------------------------------------
+Prompt 285:
+Question: When did Sewall Wright make his suggestion about human populations?
+Answer: 1978
+--------------------------------------------------------------------------------
+Prompt 286:
+Question: Who are the reigning league champions?
+Answer: Police (Men)
+--------------------------------------------------------------------------------
+Prompt 287:
+Question: What spread across Europe and the Near East?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 288:
+Question: What is it called when the owner of a pub allows patrons to remain when the pub should have closed?
+Answer: "lock-in"
+--------------------------------------------------------------------------------
+Prompt 289:
+Question: Shell Oil Company's United States business throughout its early history is described as what?
+Answer: substantially independent
+--------------------------------------------------------------------------------
+Prompt 290:
+Question: When did Kerry Wood strike out 20 batters against Houston?
+Answer: May 6, 1998
+--------------------------------------------------------------------------------
+Prompt 291:
+Question: Aspirated stops contrast with what?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 292:
+Question: What theory doesn't argue that conceptual cognition is not required for emotional meaning?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 293:
+Question: What were the colors of the German Empire from 1818 to 1970?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 294:
+Question: Who encouraged local universities to increase opportunities for students in the public school districts?
+Answer: Mayor Rahm Emanuel
+--------------------------------------------------------------------------------
+Prompt 295:
+Question: Between which latitudes to mountains tend to have permanent snow?
+Answer: 19˚N and 19˚S
+--------------------------------------------------------------------------------
+Prompt 296:
+Question: What is the name of the BOM standard?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 297:
+Question: For how long did the Soviet Union go unrecognized?
+Answer: five months
+--------------------------------------------------------------------------------
+Prompt 298:
+Question: How can antibiotic penicillin destroy bacteria?
+Answer: by inhibiting a step in the synthesis of peptidoglycan
+--------------------------------------------------------------------------------
+Prompt 299:
+Question: Who pioneered the circular bar?
+Answer: Isambard Kingdom Brunel
+--------------------------------------------------------------------------------
+Prompt 300:
+Question: What was one anti-union thing that workers in Beaverton were required to do?
+Answer: attend anti-union meetings
+--------------------------------------------------------------------------------
+Prompt 301:
+Question: What was the purpose of the Shengyang meeting?
+Answer: discuss the PVA's logistical problems
+--------------------------------------------------------------------------------
+Prompt 302:
+Question: How much did the second world tour make in dollars?
+Answer: 119.5 million
+--------------------------------------------------------------------------------
+Prompt 303:
+Question: What is an exaple of a hepatonic scale?
+Answer: the major scale
+--------------------------------------------------------------------------------
+Prompt 304:
+Question: What area was known for its garden apartments?
+Answer: Jackson Heights
+--------------------------------------------------------------------------------
+Prompt 305:
+Question: What happens to the conductivity of the electrolyte at low temperatures?
+Answer: drops at low temperatures
+--------------------------------------------------------------------------------
+Prompt 306:
+Question: How many grams were in the livre du roi?
+Answer: 489.5
+--------------------------------------------------------------------------------
+Prompt 307:
+Question: The Renaissance is generally used to describe developments in what areas of life in the Middle Ages?
+Answer: intellectual, cultural, or artistic
+--------------------------------------------------------------------------------
+Prompt 308:
+Question: What is Tennessee's most populous city?
+Answer: Memphis
+--------------------------------------------------------------------------------
+Prompt 309:
+Question: What was the name Loughborough University was known by from 1966 to 1996?
+Answer: Loughborough University of Technology
+--------------------------------------------------------------------------------
+Prompt 310:
+Question: What did Russell combine at the headquarters?
+Answer: printing and corporate offices with a house of worship
+--------------------------------------------------------------------------------
+Prompt 311:
+Question: What is the Chinese name for a seismometer?
+Answer: Houfeng didong yi
+--------------------------------------------------------------------------------
+Prompt 312:
+Question: Who runs Yale's residential colleges?
+Answer: The colleges are led by a master and an academic dean
+--------------------------------------------------------------------------------
+Prompt 313:
+Question: What did the Greeks offer to the Ottoman Empire that was a superb benefit ? 
+Answer: the Greek tradition of education and commerce
+--------------------------------------------------------------------------------
+Prompt 314:
+Question: In what year did Royal Dutch Shell make a bid to purchase approximately 30% of Shell Oil Company's shares?
+Answer: 1984
+--------------------------------------------------------------------------------
+Prompt 315:
+Question: With what song did Motley Crue reach their commercial peak?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 316:
+Question: How much XDR BRAM is on board a PS3?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 317:
+Question: What does the acronym COMESA represent?
+Answer: Common Market for Eastern and Southern Africa
+--------------------------------------------------------------------------------
+Prompt 318:
+Question: When was the synagogue in Khirbet Susiya re-discovered?
+Answer: in 1971–72
+--------------------------------------------------------------------------------
+Prompt 319:
+Question: Geometric Invariant theory studies what kind of equations?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 320:
+Question: What kind of weapon was used against the Mau demonstrators?
+Answer: Lewis machine gun
+--------------------------------------------------------------------------------
+Prompt 321:
+Question: What was the most important South American conflict between France and Britain called?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 322:
+Question: What do crickets do in order to attract or repel a mate?
+Answer: stridulate
+--------------------------------------------------------------------------------
+Prompt 323:
+Question: What happened to Georgian politics as a result of the attack?
+Answer: radicalized
+--------------------------------------------------------------------------------
+Prompt 324:
+Question: Which mountains associated with the USA were formed near the equator on  Pangaea during the Devonian?
+Answer: the northern Appalachian Mountains
+--------------------------------------------------------------------------------
+Prompt 325:
+Question: Where was the book, On the Origin of Species first offered for sale?
+Answer: Murray's autumn sale
+--------------------------------------------------------------------------------
+Prompt 326:
+Question: What device was invented by the ancient Greeks?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 327:
+Question: Why might one want to discover when consulting a sangoma in Swaziland?
+Answer: the cause of sickness or even death
+--------------------------------------------------------------------------------
+Prompt 328:
+Question: Which aspect of organisms changes most radically in the process of evolution Popper envisions?
+Answer: behaviour
+--------------------------------------------------------------------------------
+Prompt 329:
+Question: When was the Cyber Security Cooperation Program shut down?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 330:
+Question: How many people support the NBS?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 331:
+Question: What year did Sony and Philips release CD-Recordable?
+Answer: 1990
+--------------------------------------------------------------------------------
+Prompt 332:
+Question: How many females were in Hyderabad for the 2011 census?
+Answer: 3,309,168
+--------------------------------------------------------------------------------
+Prompt 333:
+Question: What group did Hayek form with three other people?
+Answer: Mont Pèlerin Society
+--------------------------------------------------------------------------------
+Prompt 334:
+Question: What was Tajikistan's population in July 2019?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 335:
+Question: What is Raleigh part of?
+Answer: North Carolina's Research Triangle
+--------------------------------------------------------------------------------
+Prompt 336:
+Question: Who influenced Beyonce?
+Answer: Michael Jackson
+--------------------------------------------------------------------------------
+Prompt 337:
+Question: Who improved the steam engine?
+Answer: Matthew Boulton and James Watt
+--------------------------------------------------------------------------------
+Prompt 338:
+Question: How many centres of higher education are in Paris?
+Answer: 55
+--------------------------------------------------------------------------------
+Prompt 339:
+Question: What country did Chen Yuanguang rule in 677?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 340:
+Question: Who rescinded the right of the whole body of cardinals to elect the pope in 1179?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 341:
+Question:  What is a synonym for cantata?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 342:
+Question: How often is a leap day added to the Julian calendar year?
+Answer: every 4 years
+--------------------------------------------------------------------------------
+Prompt 343:
+Question: What is the English translation of Galeb?
+Answer: seagull
+--------------------------------------------------------------------------------
+Prompt 344:
+Question: What made it possible for psychoanalytical theories to be shown as false?  
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 345:
+Question: In what year did Frédéric officially acquire French citizenship?
+Answer: 1835
+--------------------------------------------------------------------------------
+Prompt 346:
+Question: Hg I2a2 was believed to have arisen where?
+Answer: west Balkans
+--------------------------------------------------------------------------------
+Prompt 347:
+Question: What were two large ports on the English east coast in the North?
+Answer: Newcastle-upon-Tyne and Sunderland
+--------------------------------------------------------------------------------
+Prompt 348:
+Question: Where were all variants of Albanian used?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 349:
+Question: Why goals were accomplished the the KPA and PVA's use gongs during these attacks?
+Answer: facilitating tactical communication and mentally disorienting the enemy
+--------------------------------------------------------------------------------
+Prompt 350:
+Question: Which Japanese term was derived from the Portugeuese term Tokugawa?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 351:
+Question: What did the spring equinox motivate the church to change?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 352:
+Question:  How many jobs did Texas add for every one lost?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 353:
+Question: In heterosexual adolescent couples, is there a significant difference in the rates of male and female aggressors?
+Answer: no
+--------------------------------------------------------------------------------
+Prompt 354:
+Question: What phenomenon was explained in 1906?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 355:
+Question: Why did Iran have to build its own military hardware, vehicles, and weapons after the 1979 Revolution?
+Answer: foreign embargoes
+--------------------------------------------------------------------------------
+Prompt 356:
+Question: What was the Victorian era of the United Kingdom? 
+Answer: the period of Queen Victoria's reign
+--------------------------------------------------------------------------------
+Prompt 357:
+Question: What major power of the time was not involved in The Seven Years' War?
+Answer: It involved every great power of the time except the Ottoman Empire
+--------------------------------------------------------------------------------
+Prompt 358:
+Question: Which three states in the United Kingdom have devolved governements?
+Answer: Scotland, Wales and Northern Ireland
+--------------------------------------------------------------------------------
+Prompt 359:
+Question: What type of impulses did Burke think could gain power through commoners' passions?
+Answer: authoritarian
+--------------------------------------------------------------------------------
+Prompt 360:
+Question: When exposed to frost who will die from ebullism within minutes?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 361:
+Question: In what percentage range is trash put into recycle bins?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 362:
+Question: In what country does Tito have a street named in his honor?
+Answer: Ethiopia
+--------------------------------------------------------------------------------
+Prompt 363:
+Question:  Who awarded a teaching license in non-Islamic schools?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 364:
+Question: Which valley is encompassed by the most northeast portion of San Diego?
+Answer: San Pasqual Valley
+--------------------------------------------------------------------------------
+Prompt 365:
+Question: Why was the Centre de Liasion et d'information des Puissances maconniques signataires de l'Appel de Strasbourg set up?
+Answer: provides a forum for most of these Grand Lodges and Grand Orients worldwide
+--------------------------------------------------------------------------------
+Prompt 366:
+Question: In what year did Weinstein create E = mc2?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 367:
+Question: What is the name of the securities that enabled financial institutions to obtain investor funds to finance subprime?
+Answer: collateralized debt obligation
+--------------------------------------------------------------------------------
+Prompt 368:
+Question: How many rules were proposed in the 1881 publication of the New Testament in Greek?
+Answer: They proposed nine critical rules
+--------------------------------------------------------------------------------
+Prompt 369:
+Question: Which languages are not spoken by military allies?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 370:
+Question: What is the 3rd oldest paper in the nation?
+Answer: Philadelphia Inquirer
+--------------------------------------------------------------------------------
+Prompt 371:
+Question: What party did the Washington Party merge with?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 372:
+Question: Who can call congress into emergency session?
+Answer: The president
+--------------------------------------------------------------------------------
+Prompt 373:
+Question: What was the preference for all mainland regions?
+Answer: Mandarin
+--------------------------------------------------------------------------------
+Prompt 374:
+Question: What are generally in favor of uncomprehensive schools?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 375:
+Question: What has the concept of workplace diversity caused employers not to do?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 376:
+Question: How many cathedrals does Cork host?
+Answer: two
+--------------------------------------------------------------------------------
+Prompt 377:
+Question: What does improving visibilitiy by using a right handed pattern do for the ATC?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 378:
+Question: Which audition stage is televised?
+Answer: the judges
+--------------------------------------------------------------------------------
+Prompt 379:
+Question: What document defines how much money is transferred from the United States to the Marshall Islands?
+Answer: the Amended Compact of Free Association
+--------------------------------------------------------------------------------
+Prompt 380:
+Question: Who's map is still preserved from the 2nd century A.D
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 381:
+Question: What was incorporated in New York on April 30, 1921?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 382:
+Question: What were the governors of the taifas called?
+Answer: Emir
+--------------------------------------------------------------------------------
+Prompt 383:
+Question: What was the nickname rebel leader Zhang Xianzhong?
+Answer: Yellow Tiger
+--------------------------------------------------------------------------------
+Prompt 384:
+Question: The play was the opening act for the starting of the 2013 season at which location?
+Answer: Regent's Park Open Air Theatre
+--------------------------------------------------------------------------------
+Prompt 385:
+Question: What does Canada allow by-law changes to be?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 386:
+Question: What reached the region arounf 4500 years ago?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 387:
+Question: Who isn't interested in the degrees of phonemic length?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 388:
+Question: Which part of Tennessee voted more Republican in the years following the Civil War?
+Answer: eastern
+--------------------------------------------------------------------------------
+Prompt 389:
+Question: What time period marks the start of Neolithic culture?
+Answer: 10,200 – 8,800 BC
+--------------------------------------------------------------------------------
+Prompt 390:
+Question: When did Wayback Machine's suit against Internet Archive come to an end?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 391:
+Question: What is the time limit for completing an Endangered Species Recovery Plan?
+Answer: The ESA does not specify when a recovery plan must be completed.
+--------------------------------------------------------------------------------
+Prompt 392:
+Question: What society did James Hunt form in the 18th century?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 393:
+Question:  Which of the Gospels most disagrees with Athanasius?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 394:
+Question: How many miles of sewers are in the city?
+Answer: 3,657 miles
+--------------------------------------------------------------------------------
+Prompt 395:
+Question: Her alter ego was born when according to Beyonce?
+Answer: making of "Crazy in Love"
+--------------------------------------------------------------------------------
+Prompt 396:
+Question: What 1996 movie was set completely in Santa Monica?
+Answer: The Truth About Cats & Dogs
+--------------------------------------------------------------------------------
+Prompt 397:
+Question: How many games in a row did the Cubs win in a row during 1935?
+Answer: 21
+--------------------------------------------------------------------------------
+Prompt 398:
+Question: When did the mutiny of military factions occur?
+Answer: October 2004
+--------------------------------------------------------------------------------
+Prompt 399:
+Question: Time is one of the fundamental physical quantities in which two systems?
+Answer: the International System of Units and International System of Quantities
+--------------------------------------------------------------------------------
+Prompt 400:
+Question: What continent drifted from the South Pole to the equator?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 401:
+Question: What is the use of solar balloons typically limited to?
+Answer: the toy market
+--------------------------------------------------------------------------------
+Prompt 402:
+Question: Buddhism had similiar tenets to what other common religion?
+Answer: Christianity
+--------------------------------------------------------------------------------
+Prompt 403:
+Question: Where do some adolescents feel is a safe place to seek out romantic relationships, try out dating and indentity exploration?
+Answer: social media
+--------------------------------------------------------------------------------
+Prompt 404:
+Question: What is a frequent modern function of country pubs?
+Answer: providing seating facilities for the consumption of food
+--------------------------------------------------------------------------------
+Prompt 405:
+Question: When was Holyhead County School closed?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 406:
+Question: When did a district court order the FDA to stop approving animals?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 407:
+Question: What produces adaptive traits to deal only with simple problems of survival?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 408:
+Question: What advantage does a coreless rotor have over traditional variants?
+Answer: accelerate much more rapidly
+--------------------------------------------------------------------------------
+Prompt 409:
+Question: How many stations are in the Mexico City metro system?
+Answer: 195
+--------------------------------------------------------------------------------
+Prompt 410:
+Question: Which script evolved from the Gupta script in the 8th century?
+Answer: Śāradā
+--------------------------------------------------------------------------------
+Prompt 411:
+Question: What date did the torch relay event take place?
+Answer: April 28.
+--------------------------------------------------------------------------------
+Prompt 412:
+Question: What type of structure did most provinces have?
+Answer: fortress
+--------------------------------------------------------------------------------
+Prompt 413:
+Question: Who used the term "barbarous German style" to portray what is known today as the Modern style?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 414:
+Question: Who did Arsenal lose to at the 1980 European Cup?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 415:
+Question: What was placed on the blockhouses by the Germans?
+Answer: anti-aircraft artillery
+--------------------------------------------------------------------------------
+Prompt 416:
+Question: A BIOS chip is located where in a computer?
+Answer: the motherboard
+--------------------------------------------------------------------------------
+Prompt 417:
+Question:  When did Phil Skinner lose an MBE?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 418:
+Question: When did Nigeria improve its tertiary education?
+Answer: After the 1970s oil boom
+--------------------------------------------------------------------------------
+Prompt 419:
+Question: What is an important number when it comes to guns engaging an aircraft?
+Answer: The maximum distance
+--------------------------------------------------------------------------------
+Prompt 420:
+Question: Who published psychology of close in 1920?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 421:
+Question: What was the intention behind the passage of the Beer Act of 1830?
+Answer: reducing public drunkenness
+--------------------------------------------------------------------------------
+Prompt 422:
+Question: Which Prussian linguist called for an ontology?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 423:
+Question: In what way is the dielectric used in order to cause the absolute breakdown voltage of capacitors to be limited?
+Answer: The dielectric is used in very thin layers
+--------------------------------------------------------------------------------
+Prompt 424:
+Question: What is the oldest street in the America's?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 425:
+Question: Streptococci and other pathogens could be treated by what type of antibiotics?
+Answer: sulfonamides
+--------------------------------------------------------------------------------
+Prompt 426:
+Question: When did Vanilla Fudge release Born to be Wild?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 427:
+Question: Who was the last pope to set foot in the abbey?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 428:
+Question: When did Univisión announce it was building a production studio in Miami?
+Answer: 2009
+--------------------------------------------------------------------------------
+Prompt 429:
+Question: From what country did Friedrich Wilhelm von Steuben come from?
+Answer: Europe
+--------------------------------------------------------------------------------
+Prompt 430:
+Question: Who wrote to Burke on Nov 4, 1793?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 431:
+Question: During what years did North Korea move to a one party system?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 432:
+Question: Who was the US under-secretary in 2011?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 433:
+Question: Periodic events and periodic motion have served as standards for what?
+Answer: Periodic events and periodic motion
+--------------------------------------------------------------------------------
+Prompt 434:
+Question: What is the efficacy of an AC powered HP-LED?
+Answer: 40 lm/W
+--------------------------------------------------------------------------------
+Prompt 435:
+Question: What was the name of the Las Vegas team owned by Vince Neil?
+Answer: Outlaws
+--------------------------------------------------------------------------------
+Prompt 436:
+Question: In what direction does Grande Saline Bay lie from St. Jean Bay?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 437:
+Question: Who is partnered with Saint Helena online?
+Answer: Saint FM and the St Helena Independent
+--------------------------------------------------------------------------------
+Prompt 438:
+Question: What made conversion easy in the Roman world?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 439:
+Question: What is the first river that the 40th, 3rd, and 6th Japanese divisions crossed while advancing southward?
+Answer: Xinqiang River
+--------------------------------------------------------------------------------
+Prompt 440:
+Question: What Protestant religion has allowed that some of their predictions may not come to pass?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 441:
+Question: Who wrote songs after the style of Sammi?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 442:
+Question: colloquial reading are usually used where?
+Answer: spoken language and vulgar phrases
+--------------------------------------------------------------------------------
+Prompt 443:
+Question: What has not gaind widespread support according to the CPPCG?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 444:
+Question: Where do tubenosed birds breed?
+Answer: the southern hemisphere
+--------------------------------------------------------------------------------
+Prompt 445:
+Question: What do the two blocks of Catalan display differences in?
+Answer: word choices
+--------------------------------------------------------------------------------
+Prompt 446:
+Question: Which city has the largest Irish and Italian populations?
+Answer: New York City
+--------------------------------------------------------------------------------
+Prompt 447:
+Question: When was the King David Hotel bombing?
+Answer: 1946
+--------------------------------------------------------------------------------
+Prompt 448:
+Question: Who was the founder of the Perfect Film and Chemical Corporation?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 449:
+Question: Are immune tissues typically fixed with specific organs usually?
+Answer: not associated with any specific organ
+--------------------------------------------------------------------------------
+Prompt 450:
+Question: What common name are the ministers in Berlin, Bremen and Hamburg called?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 451:
+Question: Whom, along with Francis Bacon and John Locke, did Thomas Jefferson consider to be one of the three greatest men that ever lived?
+Answer: Isaac Newton
+--------------------------------------------------------------------------------
+Prompt 452:
+Question: What popular property in Monopoly was actually a misspelling?
+Answer: Marvin Gardens
+--------------------------------------------------------------------------------
+Prompt 453:
+Question: How many torchbearers participated in the relay event in Hong Kong?
+Answer: 120
+--------------------------------------------------------------------------------
+Prompt 454:
+Question: Who was sent as governer-general to the Spanish Empire?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 455:
+Question: What is subject to a space-time hardware?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 456:
+Question: Where did the Dalai Lama's government flee to during the 1959 Tibetan Rebellion?
+Answer: Dharamsala
+--------------------------------------------------------------------------------
+Prompt 457:
+Question: Who doesn't read the Laws of the Game?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 458:
+Question: After WWII criminals were largely prosecuted under CPPCG for their involvement in what massive genocidal effort?
+Answer: the Holocaust
+--------------------------------------------------------------------------------
+Prompt 459:
+Question: What do the buses look like in Strasbourg?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 460:
+Question: What profesional roles from secular law does the Catholic Church also employ?
+Answer: lawyers, judges
+--------------------------------------------------------------------------------
+Prompt 461:
+Question: What was the major Indus city in Punjab?
+Answer: Harrapa
+--------------------------------------------------------------------------------
+Prompt 462:
+Question: How many Jewish people live in the Boston Metro area?
+Answer: 227,000
+--------------------------------------------------------------------------------
+Prompt 463:
+Question: Chopin gave a yearly performance where?
+Answer: Salle Pleyel
+--------------------------------------------------------------------------------
+Prompt 464:
+Question: What is composed of two rotations?
+Answer: a rotation
+--------------------------------------------------------------------------------
+Prompt 465:
+Question: What process takes 12 hours?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 466:
+Question: What branch of the Department for Transport has its headquarters in Southampton?
+Answer: Marine Accident Investigation Branch
+--------------------------------------------------------------------------------
+Prompt 467:
+Question: What did Mac's lack in 1984 and have no means to easily attach?
+Answer: a hard disk drive
+--------------------------------------------------------------------------------
+Prompt 468:
+Question: The two great ancient Greek historians were?
+Answer: Herodotus and Thucydides
+--------------------------------------------------------------------------------
+Prompt 469:
+Question: When did the First Macedonian War end?
+Answer: 205 BC
+--------------------------------------------------------------------------------
+Prompt 470:
+Question: What did Brigham Young have a separate one of after 1939?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 471:
+Question: What type of gas does not fill a tungsten filament bulb?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 472:
+Question: What is the name of the political party's leader that The Times supported in the 2001 general election?
+Answer: Tony Blair
+--------------------------------------------------------------------------------
+Prompt 473:
+Question: Which group never visits Protestant churches?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 474:
+Question: For how long has the record transfer fee steadily declined?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 475:
+Question: How many types are Nepali works of art typically divided into?
+Answer: two
+--------------------------------------------------------------------------------
+Prompt 476:
+Question: Which characters matched the success of the big three?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 477:
+Question: Which country was the first to have European traders in Sub-Saharan Africa?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 478:
+Question: What type of University would Yale fall under?
+Answer: independent
+--------------------------------------------------------------------------------
+Prompt 479:
+Question: What color is Auramine-rhodamine staining?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 480:
+Question: What is Renaixenca?
+Answer: Catalan literary revival
+--------------------------------------------------------------------------------
+Prompt 481:
+Question: In addition to conversion, what other reason is given for the trend in Christianity's followers?
+Answer: High birth rates
+--------------------------------------------------------------------------------
+Prompt 482:
+Question: What date did IBM announce that its executives would forgo bonuses for fiscal year 2013?
+Answer: January 21, 2014
+--------------------------------------------------------------------------------
+Prompt 483:
+Question: When comic doesn't appear as a countable noun it refers to what?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 484:
+Question: What are Catalan and Valencian assumed to be?
+Answer: the same language
+--------------------------------------------------------------------------------
+Prompt 485:
+Question: What is the official currency of the Marshall Islands?
+Answer: United States dollar
+--------------------------------------------------------------------------------
+Prompt 486:
+Question: After what war did Moscow begin to repress the Ukrainian language?
+Answer: World War II
+--------------------------------------------------------------------------------
+Prompt 487:
+Question: In what year did the war technically end?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 488:
+Question: On what campus is the University of Kansas School of Engineering located?
+Answer: main campus
+--------------------------------------------------------------------------------
+Prompt 489:
+Question: What are roofs traditionally constructed from? 
+Answer: Alpine rocks
+--------------------------------------------------------------------------------
+Prompt 490:
+Question: During which month of 2015 did the BeiDou-3 system begin offering services to Japan?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 491:
+Question: What year was Harper Lee born?
+Answer: 1926
+--------------------------------------------------------------------------------
+Prompt 492:
+Question: The iPod can play music from other online stores as long as they don't contain what feature?
+Answer: DRM
+--------------------------------------------------------------------------------
+Prompt 493:
+Question: What kind of music does Roshen Ara Begum perform?
+Answer: Ghazals and folk songs
+--------------------------------------------------------------------------------
+Prompt 494:
+Question: Who wrote and directed The Orator?
+Answer: Tusi Tamasese
+--------------------------------------------------------------------------------
+Prompt 495:
+Question: Corruption aids what as far as the environment is concerned?
+Answer: environmental destruction
+--------------------------------------------------------------------------------
+Prompt 496:
+Question: Who was on the other end of the first cross country phone call?
+Answer: Thomas Watson
+--------------------------------------------------------------------------------
+Prompt 497:
+Question: What have been beneficial in the reconstruction of Middle Chinese?
+Answer: Sino-Xenic pronunciations
+--------------------------------------------------------------------------------
+Prompt 498:
+Question: How did the first Gulf War end?
+Answer: ceasefire agreement that suspended hostilities (but not officially ended)
+--------------------------------------------------------------------------------
+Prompt 499:
+Question: In what year were did the Macedonians lose The Battle of Pydna?
+Answer: 168 BC
+--------------------------------------------------------------------------------
+Prompt 500:
+Question: What are the risks of wrestling?
+Answer: high chance of injury, and even death
+--------------------------------------------------------------------------------
+Prompt 501:
+Question: Who did Justus von Liebig argue with over the belief that animals get protein from plants?
+Answer: Jean-Baptiste Dumas
+--------------------------------------------------------------------------------
+Prompt 502:
+Question: Communications in Somalia are mostly concentrated in what sector?
+Answer: private
+--------------------------------------------------------------------------------
+Prompt 503:
+Question: When was Nagorno-Karabakh removed from Armenia?
+Answer: 1923
+--------------------------------------------------------------------------------
+Prompt 504:
+Question: How was Japan strengthened during the Heian period?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 505:
+Question: What thriller film did Beyonce star in?
+Answer: Obsessed
+--------------------------------------------------------------------------------
+Prompt 506:
+Question: What is Oakland Counties average income?
+Answer: $62,000
+--------------------------------------------------------------------------------
+Prompt 507:
+Question: What city is north of Tallinn? 
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 508:
+Question: Who compiled the Kobylańska Catalogue?
+Answer: Krystyna Kobylańska.
+--------------------------------------------------------------------------------
+Prompt 509:
+Question: Who does the Commander-in-Chief authorize to make decision regarding the Armed Forces for them?
+Answer: the governor general
+--------------------------------------------------------------------------------
+Prompt 510:
+Question: What year did Congress pass the American Recover and Reinvestment Act?
+Answer: 2009
+--------------------------------------------------------------------------------
+Prompt 511:
+Question: In general what are "apizza" known for?
+Answer: its thin crust
+--------------------------------------------------------------------------------
+Prompt 512:
+Question: What does Article 370 say?
+Answer: special provisions for the state of Jammu and Kashmir as per its Instrument of Accession
+--------------------------------------------------------------------------------
+Prompt 513:
+Question: Which port in Melborne is the busiest seaport for containerised and general cargo?
+Answer: Port of Melbourne
+--------------------------------------------------------------------------------
+Prompt 514:
+Question: What is the name of the tennis complex, cited as one of the largest worldwide, located in New Haven?
+Answer: Connecticut Tennis Center
+--------------------------------------------------------------------------------
+Prompt 515:
+Question: How many Jehovah's Witnesses were there in Canada at the start of World War II?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 516:
+Question: Whitehead's education style was to teach what?
+Answer: a relatively few important concepts
+--------------------------------------------------------------------------------
+Prompt 517:
+Question: Which sutras are among the earliest Mahayana sutras?
+Answer: Prajñāpāramitā
+--------------------------------------------------------------------------------
+Prompt 518:
+Question: What two religions divide the city?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 519:
+Question: How many units did the Xbox 360 sell in Canada in 2013?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 520:
+Question: Out of 10,000 boys between five and nine years old, how many are bitten annually by dogs?
+Answer: 60.7
+--------------------------------------------------------------------------------
+Prompt 521:
+Question: In what year did the establishment of Coconut Grove occur?
+Answer: 1825
+--------------------------------------------------------------------------------
+Prompt 522:
+Question: What did John do in fits of rage?
+Answer: biting and gnawing his fingers
+--------------------------------------------------------------------------------
+Prompt 523:
+Question: How many blades did the simplified version on the guide have?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 524:
+Question: Who re-designed the building for The Yale Center for British Art?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 525:
+Question: Who was the daughter of Phlegyas?
+Answer: Coronis
+--------------------------------------------------------------------------------
+Prompt 526:
+Question: What type of annelids are very identical to others?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 527:
+Question: Who filed the lawsuits against Shell?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 528:
+Question: What residence was the Paul VI staying in on the day of his death?
+Answer: Castel Gandolfo
+--------------------------------------------------------------------------------
+Prompt 529:
+Question: What controls a birds migration?
+Answer: a primitive trait
+--------------------------------------------------------------------------------
+Prompt 530:
+Question: How many Nobel Prizes have been won by IBM employees?
+Answer: five Nobel Prizes
+--------------------------------------------------------------------------------
+Prompt 531:
+Question: What could the king do to nobles injured or taken during war?
+Answer: King to pay indemnities
+--------------------------------------------------------------------------------
+Prompt 532:
+Question: What ratio of all new HIV cases occur in those under age 21?
+Answer: One-quarter
+--------------------------------------------------------------------------------
+Prompt 533:
+Question: Madonna used which TV company to help with her career?
+Answer: MTV
+--------------------------------------------------------------------------------
+Prompt 534:
+Question: Where do leeches move their eggs to?
+Answer: the cocoon
+--------------------------------------------------------------------------------
+Prompt 535:
+Question: What does copper glow when exposed to air?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 536:
+Question: What percentage range of uranium oxide is usually contained in low-grade uranium ore?
+Answer: 0.01 to 0.25%
+--------------------------------------------------------------------------------
+Prompt 537:
+Question: What would be an ideal reaction from the United States, according to Puerto Rico?
+Answer: end the current form of territorial status and begin the process of admitting Puerto Rico to the Union as a state
+--------------------------------------------------------------------------------
+Prompt 538:
+Question: How much did the size of the Roman army increase in the 3rd century?
+Answer: doubled
+--------------------------------------------------------------------------------
+Prompt 539:
+Question: How many members did the original Texas city council have?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 540:
+Question: Which region of the US experiences rain year round?
+Answer: Pacific Northwest
+--------------------------------------------------------------------------------
+Prompt 541:
+Question: Who was Wilhelm I?
+Answer: head of a union of German-speaking states
+--------------------------------------------------------------------------------
+Prompt 542:
+Question: What has stimulated IT sector?
+Answer: new Egyptian entrepreneurs with government encouragement
+--------------------------------------------------------------------------------
+Prompt 543:
+Question: To what position was Malenkov promoted?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 544:
+Question: What was developed at Cornell by Seiji Ozawa?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 545:
+Question: What religion do most people practice in Mindanao?
+Answer: Muslim
+--------------------------------------------------------------------------------
+Prompt 546:
+Question: Why is the base of a BJT narrow?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 547:
+Question: When was the Madaba Map rediscovered? 
+Answer: 1894
+--------------------------------------------------------------------------------
+Prompt 548:
+Question: What did the planners want to have around Lake Paranoa?
+Answer: extensive public areas
+--------------------------------------------------------------------------------
+Prompt 549:
+Question: Who was the regional leader in tourism in 1995?
+Answer: Singapore
+--------------------------------------------------------------------------------
+Prompt 550:
+Question: When was the island discovered?
+Answer: 1502
+--------------------------------------------------------------------------------
+Prompt 551:
+Question: How many schools are in Boston?
+Answer: 145 schools
+--------------------------------------------------------------------------------
+Prompt 552:
+Question: In what year did NBC begin broadcasting from the Comcast building?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 553:
+Question: What must Africans who recently immigrated do?
+Answer: recognize their own unique ancestral backgrounds
+--------------------------------------------------------------------------------
+Prompt 554:
+Question: What percentage of people worked in agriculture?
+Answer: 0.2
+--------------------------------------------------------------------------------
+Prompt 555:
+Question: What are copper salts used to burn?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 556:
+Question: What was the first consideration for the OKL to support Directive 23?
+Answer: difficulty in estimating the impact of bombing upon war production
+--------------------------------------------------------------------------------
+Prompt 557:
+Question: When was Pope Pius XII canonized?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 558:
+Question: Why does psychiatrist Anil Aggrawal say androphilia and gynephilia are needed terms?
+Answer: the affected s
+--------------------------------------------------------------------------------
+Prompt 559:
+Question: How many African wild dog are there left?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 560:
+Question: there are common concepts to both major buddhist branches according to what organization?
+Answer: Buddhist ecumenical organization
+--------------------------------------------------------------------------------
+Prompt 561:
+Question: What is typically used to measure light?
+Answer: light dosimeters
+--------------------------------------------------------------------------------
+Prompt 562:
+Question: What hero of Rome studied Greek philosophy and science?
+Answer: Scipio Africanus
+--------------------------------------------------------------------------------
+Prompt 563:
+Question: Along with the invention of printing, and the associated dissemination of the printed word, what other factor is believed to have led to the Protestant Reformation?
+Answer: democratized learning
+--------------------------------------------------------------------------------
+Prompt 564:
+Question: What museum has a branch at the Santa Fe Depot?
+Answer: Museum of Contemporary Art San Diego (MCASD)
+--------------------------------------------------------------------------------
+Prompt 565:
+Question: What system of government was constitution based on?
+Answer: parliamentary system
+--------------------------------------------------------------------------------
+Prompt 566:
+Question: What party lost control of House in 2010 elections?
+Answer: Democrats
+--------------------------------------------------------------------------------
+Prompt 567:
+Question: What show did Kanye perform a spoof about the incident at the MTV Europe Awards?
+Answer: Saturday Night Live
+--------------------------------------------------------------------------------
+Prompt 568:
+Question: How many square kilometers in size is Kathmandu?
+Answer: 49.45
+--------------------------------------------------------------------------------
+Prompt 569:
+Question: What is the SI unit of illuminace and luminous emittance?
+Answer: Lux
+--------------------------------------------------------------------------------
+Prompt 570:
+Question: What group operation is taken by the set from the original group?
+Answer: coset multiplication
+--------------------------------------------------------------------------------
+Prompt 571:
+Question: For how long did the Federalist Party exist?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 572:
+Question: Who administers formal discipline?
+Answer: congregation elders
+--------------------------------------------------------------------------------
+Prompt 573:
+Question: What was the average age of American Idols viewers in its tenth season? 
+Answer: 47.2
+--------------------------------------------------------------------------------
+Prompt 574:
+Question: What did Dominic West say about the perception of Eton being full of braying toffs?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 575:
+Question: Where did the mandolin grow in popularity? 
+Answer: in the streets where it was used by young men courting and by street musicians, and in the concert hall
+--------------------------------------------------------------------------------
+Prompt 576:
+Question: With what unemotional component did William James identify emotion?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 577:
+Question: How many new species of all organisms are discovered each year?
+Answer: 20,000
+--------------------------------------------------------------------------------
+Prompt 578:
+Question: What conditions have no influence on the mixture of carbonate and sulfate in copper?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 579:
+Question: What do girls of the village get in comparison the the young male event ?
+Answer: Girls have ear-piercing ceremonies (နားသ) at the same time.
+--------------------------------------------------------------------------------
+Prompt 580:
+Question: How many scientists believe that symbiosis should only refer to persistent mutualisms?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 581:
+Question: In what centennial was the massacre of the Greeks of Ottoman descent ?
+Answer: genocide in the 20th century
+--------------------------------------------------------------------------------
+Prompt 582:
+Question: What do you need to complete before you can hunt vermin?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 583:
+Question:  How many township-level divisions of Zhejiang are there?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 584:
+Question: What does the abbreviation NAAL represent?
+Answer: National Assessment of Adult Literacy
+--------------------------------------------------------------------------------
+Prompt 585:
+Question: Who believe that they are the only people that know the truth?
+Answer: exclusivists
+--------------------------------------------------------------------------------
+Prompt 586:
+Question: What animal's food sources were greatly affected with the loss of wolves in Yellowstone National Park?
+Answer: beavers
+--------------------------------------------------------------------------------
+Prompt 587:
+Question: What is its largest island?
+Answer: Arousa
+--------------------------------------------------------------------------------
+Prompt 588:
+Question: What kind of coverage might take precedence over standard BBC programming?
+Answer: major local events
+--------------------------------------------------------------------------------
+Prompt 589:
+Question: If they're not purely hunter-gatherers, then what do they have a history of being?
+Answer: agriculturalists
+--------------------------------------------------------------------------------
+Prompt 590:
+Question: How many votes did Kerry receive, in the Electoral College?
+Answer: 252
+--------------------------------------------------------------------------------
+Prompt 591:
+Question: If Siddhartha lived in a small republic, his father would have been a what?
+Answer: elected chieftain
+--------------------------------------------------------------------------------
+Prompt 592:
+Question: How many new rail lines are planned for the future in Houston light rail?
+Answer: five
+--------------------------------------------------------------------------------
+Prompt 593:
+Question: What language was spoken by the less educated?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 594:
+Question: What types of instruments do irish player prefer?
+Answer: might be adequate for Irish traditional music, virtually all Irish players prefer flat-backed instruments with oval sound holes
+--------------------------------------------------------------------------------
+Prompt 595:
+Question: In what year did Bill C-60 fail?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 596:
+Question: How many presidents, excluding interrims, has Northwestern had?
+Answer: sixteen
+--------------------------------------------------------------------------------
+Prompt 597:
+Question: What decade does the sulfite process date to?
+Answer: 1840s
+--------------------------------------------------------------------------------
+Prompt 598:
+Question:  Which lake does the province of Zhejiang derive its name from?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 599:
+Question: Which BYU president suffered from a terminal illness?
+Answer: Rex E. Lee
+--------------------------------------------------------------------------------
+Prompt 600:
+Question: When did youtube launch its first app for the iPhone?
+Answer: September 2012
+--------------------------------------------------------------------------------
+Prompt 601:
+Question: What percentage of people in acute cases use salbutamol?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 602:
+Question: What were the two turbo controllers Nintendo made for the NES?
+Answer: NES Advantage and the NES Max
+--------------------------------------------------------------------------------
+Prompt 603:
+Question: What provinces where combined in 1997?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 604:
+Question: What war led to the abandonment of phenomenalism?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 605:
+Question: Which area in the British Isles is s the most populated?
+Answer: England
+--------------------------------------------------------------------------------
+Prompt 606:
+Question: What is the name of the large southern portion of the Intermontane Plateaus?
+Answer: the Great Basin
+--------------------------------------------------------------------------------
+Prompt 607:
+Question: Who was the outreach director of HRTR?
+Answer: Susan Prager
+--------------------------------------------------------------------------------
+Prompt 608:
+Question: What are logograms used in the writing of Chinese?
+Answer: Chinese characters
+--------------------------------------------------------------------------------
+Prompt 609:
+Question: Who did not create, sustain, or guide man?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 610:
+Question: What is a perk of the central bank?
+Answer: it can make as much money as it deems needed
+--------------------------------------------------------------------------------
+Prompt 611:
+Question: What happened to the Premier League's televsion rights after this decision?
+Answer: the value of the Premier League's TV rights soar.
+--------------------------------------------------------------------------------
+Prompt 612:
+Question: What is a contributing factor to Dukkha?
+Answer: ignorance
+--------------------------------------------------------------------------------
+Prompt 613:
+Question: Who isn't the Windows Manager?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 614:
+Question: The great basin and what other region are semiarid?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 615:
+Question: What proportion of crystalline ceramics yields a product with a CTE of around 0?
+Answer: ~70%
+--------------------------------------------------------------------------------
+Prompt 616:
+Question: What did not determine the social identity of the children?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 617:
+Question: What was Gromyko's western nickname?
+Answer: "Mr Nyet"
+--------------------------------------------------------------------------------
+Prompt 618:
+Question: Who recorded the visual evidence on the disdainful incident?
+Answer: footage was filmed by members of the Burmese police force in the town of Meiktila
+--------------------------------------------------------------------------------
+Prompt 619:
+Question: What is one thing that helped to ruin condition of forests, rivers and air?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 620:
+Question: What does DTG stand for?
+Answer: Digital TV Group
+--------------------------------------------------------------------------------
+Prompt 621:
+Question: Who was one of the university's Board of Directors members in the 1890s?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 622:
+Question: Dr Babatunde Osotimehin hailed from what country?
+Answer: Nigeria
+--------------------------------------------------------------------------------
+Prompt 623:
+Question: Where is Trasianka used?
+Answer: Belarus
+--------------------------------------------------------------------------------
+Prompt 624:
+Question: In what year did the Battle of Lechfeld occur?
+Answer: 955
+--------------------------------------------------------------------------------
+Prompt 625:
+Question: Where was a makeshift closing ceremony held for the torch relay in San Francisco?
+Answer: San Francisco International Airport
+--------------------------------------------------------------------------------
+Prompt 626:
+Question: What needs to be done in order to amend the Australia and Switzerland Constitution?
+Answer: required that a proposal be endorsed not just by an overall majority of the electorate in the nation as a whole
+--------------------------------------------------------------------------------
+Prompt 627:
+Question: What happened when fa'a Samoa was introduced?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 628:
+Question: What is Galicia's most widespread religion?
+Answer: Christianity
+--------------------------------------------------------------------------------
+Prompt 629:
+Question: Where in Kathmandu was Yengal located?
+Answer: southern half
+--------------------------------------------------------------------------------
+Prompt 630:
+Question: In what year did Horne began doing business?
+Answer: 1849
+--------------------------------------------------------------------------------
+Prompt 631:
+Question: What is the name of the major railroad related museum located in New Delhi?
+Answer: National Rail Museum
+--------------------------------------------------------------------------------
+Prompt 632:
+Question: Along with uranyl sulfate and uranyl chloride, what compound is formed by the UO2+ 2 ion?
+Answer: uranyl carbonate
+--------------------------------------------------------------------------------
+Prompt 633:
+Question: In contemporary parliamentary governments, which official is usually in charge of asking parliament to dissolve?
+Answer: prime minister
+--------------------------------------------------------------------------------
+Prompt 634:
+Question: Why does chicken have the lowest fat content of any meat?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 635:
+Question: What is p divided by?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 636:
+Question: What foreign war records are kept at the Freedmen's Bureau?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 637:
+Question: What years were the Roman–Parthian Wars?
+Answer: 66 BC – 217 AD
+--------------------------------------------------------------------------------
+Prompt 638:
+Question: Other than being cheaper, what is another main draw of processed foods?
+Answer: more convenient
+--------------------------------------------------------------------------------
+Prompt 639:
+Question: What types of sites were built for the animals?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 640:
+Question: What person was the Director of the Science Museum at Notre Dame in the late 19th century?
+Answer: Father Joseph Carrier, C.S.C.
+--------------------------------------------------------------------------------
+Prompt 641:
+Question: When did France provide troops in Mali?
+Answer: January 2013
+--------------------------------------------------------------------------------
+Prompt 642:
+Question: How are Freemasons invited to join a lodge?
+Answer: they are never invited
+--------------------------------------------------------------------------------
+Prompt 643:
+Question: The chemical composition of what wall makes TB easy to treat?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 644:
+Question: What did the Spori describe in 545?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 645:
+Question: Where did UK ships and French privateers fight between 1798 and 1800?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 646:
+Question: These and other differences reflect the differing design goals of what?
+Answer: two buses
+--------------------------------------------------------------------------------
+Prompt 647:
+Question: Urban adult contemporary music came into being because of pressure on what previously existing format?
+Answer: Hot AC
+--------------------------------------------------------------------------------
+Prompt 648:
+Question: What is the American film industry's trade organization?
+Answer: Motion Picture Association of America
+--------------------------------------------------------------------------------
+Prompt 649:
+Question: Which contestant cared for his brain-damaged fiancee?
+Answer: Chris Medina
+--------------------------------------------------------------------------------
+Prompt 650:
+Question: How old was Bell when he went to Canada?
+Answer: 23
+--------------------------------------------------------------------------------
+Prompt 651:
+Question: How long did it take the Gurjara Pratihara army to conquer Sindh?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 652:
+Question: What condition did Frédéric describe the piano that arrived to him through many dangerous obstacles?
+Answer: best possible condition
+--------------------------------------------------------------------------------
+Prompt 653:
+Question: In 1920, how many acres were purchased for $8 million for a new central Chicago campus?
+Answer: 8.5
+--------------------------------------------------------------------------------
+Prompt 654:
+Question: How many Dominican friars were there in 2018?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 655:
+Question: Where was the Australian and Dutch guerilla campaign led?
+Answer: Portuguese Timor
+--------------------------------------------------------------------------------
+Prompt 656:
+Question: Who published a work in 1937 on the relationship between non-emotional and the limbic system?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 657:
+Question: Sammy Sosa was in pursuit of beating whose home run record?
+Answer: Roger Maris
+--------------------------------------------------------------------------------
+Prompt 658:
+Question: Who are the parents of Apollo?
+Answer: Zeus and Leto
+--------------------------------------------------------------------------------
+Prompt 659:
+Question: What airport has a bus that takes people through concourses and baggage claim?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 660:
+Question: How many times has Saint Athanasius of Alexandria been to Egypt?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 661:
+Question: Which manservent was Victoria's most trusted ally?
+Answer: John Brown
+--------------------------------------------------------------------------------
+Prompt 662:
+Question: What else besides direction is symmetry attributed to?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 663:
+Question: How many hundreds of tons of paper are wasted in the US each year?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 664:
+Question: Along with lemon yellow, what color is produced in uranium plastic?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 665:
+Question: What is the nursing and teaching college?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 666:
+Question: Literature on how earnings and how it relates to schooling was greatly influenced by who?
+Answer: Jacob Mincer
+--------------------------------------------------------------------------------
+Prompt 667:
+Question: 1927 made what the language of education?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 668:
+Question: What did John do during the truce of 1206-1208?
+Answer: focused on building up his financial and military resources
+--------------------------------------------------------------------------------
+Prompt 669:
+Question: What were the perceived problems with the new Windows 9 user interface?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 670:
+Question: In which district is Detroit Mercy's Law School located?
+Answer: Downtown
+--------------------------------------------------------------------------------
+Prompt 671:
+Question: During what time was Montini responsible for the communications of the Vatican?
+Answer: war years
+--------------------------------------------------------------------------------
+Prompt 672:
+Question: Where is the Gold State Coach kept?
+Answer: the Royal Mews
+--------------------------------------------------------------------------------
+Prompt 673:
+Question: What specifically prompted this merger?
+Answer: the 2012 federal budget
+--------------------------------------------------------------------------------
+Prompt 674:
+Question: Name one of Madonna's other business ventures?
+Answer: fashion design
+--------------------------------------------------------------------------------
+Prompt 675:
+Question: Who felt that the further examination and knowledge of studies in the arena of humanism could limit art?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 676:
+Question: According to family economic and financial education specialists, how do adolescents develop sound money management skills?
+Answer: saving and spending money
+--------------------------------------------------------------------------------
+Prompt 677:
+Question: What is an alloy?
+Answer: a mixture of metals or a mixture of a metal and another element
+--------------------------------------------------------------------------------
+Prompt 678:
+Question: What did Anton Bruckner compose base on the Litergy of the Hours?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 679:
+Question: Approximately how many sport hunters applied for hunting licences in recent years?
+Answer: 12,000
+--------------------------------------------------------------------------------
+Prompt 680:
+Question: Who designed the new location of  the Mildred Lane Kemper Art Museum?
+Answer: Fumihiko Maki
+--------------------------------------------------------------------------------
+Prompt 681:
+Question: What do birds use to brush away foreign particles?
+Answer: The bill
+--------------------------------------------------------------------------------
+Prompt 682:
+Question: What is a main way people can prevent reactions to dust mites?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 683:
+Question: What people constituted almost the entire population of the Northern Frontier District?
+Answer: Somali
+--------------------------------------------------------------------------------
+Prompt 684:
+Question: In the original plans of the city, how many city block were designed?
+Answer: nine square blocks
+--------------------------------------------------------------------------------
+Prompt 685:
+Question: What side does the carriage have to be pushed to when starting a new line?
+Answer: right
+--------------------------------------------------------------------------------
+Prompt 686:
+Question: What are the series of events that ended centuries of prosperity in Europe, starting around 1300, known as?
+Answer: the Crisis of the Late Middle Ages
+--------------------------------------------------------------------------------
+Prompt 687:
+Question: Which school did Brigham Young Acadamy, now BYU,  break off from in 1876?
+Answer: University of Deseret
+--------------------------------------------------------------------------------
+Prompt 688:
+Question: What is the accepted definition of "multicultural" ancestry?
+Answer: Multiracial Americans are Americans who have mixed ancestry of "two or more races".
+--------------------------------------------------------------------------------
+Prompt 689:
+Question: Where is the NBS banned?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 690:
+Question: At what former lodging facility in New Haven were scenes from the 1950's classic, All About Eve, filmed?
+Answer: Taft Hotel
+--------------------------------------------------------------------------------
+Prompt 691:
+Question: What US city is St. John's often compared to?
+Answer: San Francisco
+--------------------------------------------------------------------------------
+Prompt 692:
+Question: In 1938 what was von Neumann awarded?
+Answer: Bôcher Memorial Prize
+--------------------------------------------------------------------------------
+Prompt 693:
+Question: What percentage potentially habitable modes has life in the sea not yet invaded?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 694:
+Question: What is the name of the thirty-fourth James Bond film?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 695:
+Question: What games were released as part of the Game Room?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 696:
+Question: What is Romanesque architecture known as in England?
+Answer: Norman architecture
+--------------------------------------------------------------------------------
+Prompt 697:
+Question: In what year did new discoveries change the course of research on Samoan origins?
+Answer: 2003
+--------------------------------------------------------------------------------
+Prompt 698:
+Question: To what annual art festival is the city of New Haven home?
+Answer: International Festival of Arts and Ideas
+--------------------------------------------------------------------------------
+Prompt 699:
+Question: What Carnival takes place on Laetare Sunday?
+Answer: the Carnival de la Laetare
+--------------------------------------------------------------------------------
+Prompt 700:
+Question: What countries had Tajikistan been working with to use ports?
+Answer: Iran and Pakistan
+--------------------------------------------------------------------------------
+Prompt 701:
+Question: What was Whitehead's opinion on privacy?
+Answer: almost fanatical belief in the right to privacy
+--------------------------------------------------------------------------------
+Prompt 702:
+Question: Which year was used for estimates in the 2013 report?
+Answer: 2012
+--------------------------------------------------------------------------------
+Prompt 703:
+Question: What did the Federal Aviation Agency change it's name to?
+Answer: Federal Aviation Administration
+--------------------------------------------------------------------------------
+Prompt 704:
+Question: What are the last six rounds called?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 705:
+Question: What refused to listen to industrial and business interests?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 706:
+Question: What type of American crews came down in China following the Doolittle raid?
+Answer: B-25
+--------------------------------------------------------------------------------
+Prompt 707:
+Question: What did Baker say Schwarzenegger didn't understand when she first met him?
+Answer: polite society
+--------------------------------------------------------------------------------
+Prompt 708:
+Question: Where does hyme go after the duodenum?
+Answer: the small intestine
+--------------------------------------------------------------------------------
+Prompt 709:
+Question: Along with the Commandos, who played in the first Arena Football League game?
+Answer: Gladiators
+--------------------------------------------------------------------------------
+Prompt 710:
+Question: Do roots contain chlorophyll?
+Answer: generally lack chlorophyll
+--------------------------------------------------------------------------------
+Prompt 711:
+Question: How much did the government invest in four primary missions?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 712:
+Question: Which building under construction will surpass Comcast Center?
+Answer: Comcast Innovation and Technology Center
+--------------------------------------------------------------------------------
+Prompt 713:
+Question: What document did Foreign Minister de Brum present at the 44th Pacific Islands Forum summit?
+Answer: Majuro Declaration for Climate Leadership
+--------------------------------------------------------------------------------
+Prompt 714:
+Question: Who became diplomatically isolated after the war?
+Answer: Kingdom of Sardinia
+--------------------------------------------------------------------------------
+Prompt 715:
+Question: Where was Rufino Tamayo born?
+Answer: Oaxaca
+--------------------------------------------------------------------------------
+Prompt 716:
+Question: In 1924, what was created as part of Uzbekistan?
+Answer: Tajik Autonomous Soviet Socialist Republic
+--------------------------------------------------------------------------------
+Prompt 717:
+Question: What did citizens used to do on September 9?
+Answer: hill hiking
+--------------------------------------------------------------------------------
+Prompt 718:
+Question: Who considered Tito too independent?
+Answer: Stalin
+--------------------------------------------------------------------------------
+Prompt 719:
+Question: What is also a fruit?
+Answer: pipa
+--------------------------------------------------------------------------------
+Prompt 720:
+Question: In the UK what does "Cultural Studies" focus little on in this field?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 721:
+Question: What group's committees did Paul VI declare both bishops and cardinals could participate in?
+Answer: Roman Curia
+--------------------------------------------------------------------------------
+Prompt 722:
+Question: Who posed the problem of black-body radiation?
+Answer: Kirchhoff
+--------------------------------------------------------------------------------
+Prompt 723:
+Question: What is the main mineral resource of the Prince Charles Glacier?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 724:
+Question: What's the name of the Coldplay drummer from Southampton?
+Answer: Will Champion
+--------------------------------------------------------------------------------
+Prompt 725:
+Question: What does the first truth cover?
+Answer: Dukkha
+--------------------------------------------------------------------------------
+Prompt 726:
+Question: Who removed the gold tesserae in the background of the mosaic at the Church of the Holy Apostles?
+Answer: some vandal
+--------------------------------------------------------------------------------
+Prompt 727:
+Question: Who feared invasion from Eastern Europe?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 728:
+Question: What does Tertiary education include?
+Answer: undergraduate and postgraduate education
+--------------------------------------------------------------------------------
+Prompt 729:
+Question: Who were the Seven Nations of Canada?
+Answer: These were Native Americans of the Laurentian valley
+--------------------------------------------------------------------------------
+Prompt 730:
+Question: Who captured Malakoff?
+Answer: the French
+--------------------------------------------------------------------------------
+Prompt 731:
+Question: What is another term for congitive skills that enable the control and coordination of thoughts and behavior?
+Answer: executive functions
+--------------------------------------------------------------------------------
+Prompt 732:
+Question: Along with the New York Times, what national daily newspaper is based in New York?
+Answer: The Wall Street Journal
+--------------------------------------------------------------------------------
+Prompt 733:
+Question: What are performances, art, and the production of mass media grouped under?
+Answer: visual representation
+--------------------------------------------------------------------------------
+Prompt 734:
+Question: What model included a louder cooling system?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 735:
+Question: Who were Princess Victoria's children from her previous marriage?
+Answer: Carl (1804–1856) and Feodora (1807–1872)
+--------------------------------------------------------------------------------
+Prompt 736:
+Question: Where did Arab merchants dominate after the 16th century?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 737:
+Question: What identities did the RCC try to dissuade?
+Answer: regional and tribal
+--------------------------------------------------------------------------------
+Prompt 738:
+Question:  When did Broca publish his non-pioneering work?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 739:
+Question: What was the head of an animal displayed as?
+Answer: sign of prowess
+--------------------------------------------------------------------------------
+Prompt 740:
+Question: When was Oliver Cromwell murdered?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 741:
+Question:  Who helped to give the correct quantization rules for electrons in 1945?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 742:
+Question: What does Samuel Dean say law offers?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 743:
+Question: What subjects did Ibn Sina mainly write about?
+Answer: philosophy and medicine
+--------------------------------------------------------------------------------
+Prompt 744:
+Question: Which interpretation of the rule of law is less commonly used?
+Answer: substantive
+--------------------------------------------------------------------------------
+Prompt 745:
+Question: What may be implemented to make sure volunteers are aware of informed consent laws?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 746:
+Question: What was Daisetz Teitaro Suzuki's occupation?
+Answer: Japanese historian
+--------------------------------------------------------------------------------
+Prompt 747:
+Question: What did IBM PC replace the code pages with?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 748:
+Question: Who has developed an alphabet based on Pumindian?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 749:
+Question: How many plaques become unstable in a typical MI?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 750:
+Question: Where did glasswork begin relatively late?
+Answer: China
+--------------------------------------------------------------------------------
+Prompt 751:
+Question: Where were Freddie and the Dreamers based?
+Answer: Manchester
+--------------------------------------------------------------------------------
+Prompt 752:
+Question: Which railway was rehabilitated under the Warsay Yika'alo Program?
+Answer: Eritrean
+--------------------------------------------------------------------------------
+Prompt 753:
+Question: What are the two satellite constellations?
+Answer: a limited test system that has been operating since 2000, and a full-scale global navigation system
+--------------------------------------------------------------------------------
+Prompt 754:
+Question: What did Obama say the US is at war with, in 2009?
+Answer: a far-reaching network of violence and hatred
+--------------------------------------------------------------------------------
+Prompt 755:
+Question: What silkworm cocoon does the "Province of Abundance" refer to?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 756:
+Question: The ISO/IEC high standard document states that the decompressed output produced from a given MP3 file will be the same within what standards?
+Answer: specified degree of rounding tolerance
+--------------------------------------------------------------------------------
+Prompt 757:
+Question: What happened at a technofair in Nagano, Japan in real time?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 758:
+Question: Who has frequently been classified as Hispanic?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 759:
+Question: What title was Deshin Shekpa given at Nanjing?
+Answer: Great Treasure Prince of Dharma
+--------------------------------------------------------------------------------
+Prompt 760:
+Question: In what year did the Ange-Felix Patasse war begin?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 761:
+Question: In what year did the First Council of Nicaea end?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 762:
+Question: Which group burns desirable plants while encouraging undesirable ones?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 763:
+Question: Why was paper tape better than timesharing systems?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 764:
+Question: What is the standard for determining current-carrying capacity of printed circuit board trees?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 765:
+Question: Who are two of the characters in The Full Monty?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 766:
+Question: How old wasn't Edward Oxford?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 767:
+Question: On what atoll is Ebeye located?
+Answer: Kwajalein Atoll
+--------------------------------------------------------------------------------
+Prompt 768:
+Question: Where are cases usually argued?
+Answer: state courts
+--------------------------------------------------------------------------------
+Prompt 769:
+Question: What does Theotokos mean?
+Answer: Mother of God
+--------------------------------------------------------------------------------
+Prompt 770:
+Question: The Keystone Corridor connects Washington, D.C. and what city?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 771:
+Question: In what year was Eritrea founded?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 772:
+Question: Prisoners from which battle are thought to have helped Muslims learn to sing?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 773:
+Question: What law gave Somali husbands and wives equal rights over personal property?
+Answer: 1975 Somali Family Law
+--------------------------------------------------------------------------------
+Prompt 774:
+Question: How many bits are needed to indicate that layer 3 is used?
+Answer: two
+--------------------------------------------------------------------------------
+Prompt 775:
+Question: Why did Karl von Loesch bury the microfilm?
+Answer: personal insurance for his future well-being
+--------------------------------------------------------------------------------
+Prompt 776:
+Question: In what year was S. Wanradt and J. Koell's book written?
+Answer: 1535
+--------------------------------------------------------------------------------
+Prompt 777:
+Question: What is the Kathmandu Valley's average temperature in winter, in degrees Fahrenheit?
+Answer: 50.2
+--------------------------------------------------------------------------------
+Prompt 778:
+Question: Who bailed out financial institutions?
+Answer: government
+--------------------------------------------------------------------------------
+Prompt 779:
+Question: How many people call a fumigator each year due to pests?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 780:
+Question: How was the term angeion maintained by Robert Brown?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 781:
+Question: When was he the Apostolic Visitor to Bulgaria?
+Answer: 1925–35
+--------------------------------------------------------------------------------
+Prompt 782:
+Question: Close to the outside of the capacitor, what equation describes the magnitude of the electric field?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 783:
+Question: How many adult males were able to vote in Rome?
+Answer: Less than a quarter
+--------------------------------------------------------------------------------
+Prompt 784:
+Question: Who did Paul VI feel was most important in the Catholic Hierarchy?
+Answer: papacy
+--------------------------------------------------------------------------------
+Prompt 785:
+Question: What are recycled materials blended with to make latter?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 786:
+Question: Which navigational system is regional and consists of five satellites? 
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 787:
+Question: Each party must have done what in order for the treaty to come into effect?
+Answer: ratified the treaty
+--------------------------------------------------------------------------------
+Prompt 788:
+Question: Who was one of the prominent Etonians who died in the Great War?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 789:
+Question: What 1995 treaty is Antarctica's status regulated by?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 790:
+Question: What famous Italian Restaurant also has a branch in Mexico City?
+Answer: Alfredo
+--------------------------------------------------------------------------------
+Prompt 791:
+Question: What position belonged by right to the shortest-serving of the cardinal bishops?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 792:
+Question: What hospitals partner with the Washington University School of Medicine?
+Answer: St. Louis Children's Hospital and Barnes-Jewish Hospital
+--------------------------------------------------------------------------------
+Prompt 793:
+Question: Who was the capital of Gujarat named after?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 794:
+Question: What term refers to Islamic law?
+Answer: fiqh
+--------------------------------------------------------------------------------
+Prompt 795:
+Question: What do mice without the clock gene become?
+Answer: hyperphagic and obese
+--------------------------------------------------------------------------------
+Prompt 796:
+Question: Previous to 1725, what subject matter was focused on by the concours academiques?
+Answer: generally religious and/or monarchical
+--------------------------------------------------------------------------------
+Prompt 797:
+Question: Who were rich enough to afford multiple lovers?
+Answer: nobles and high officials
+--------------------------------------------------------------------------------
+Prompt 798:
+Question: What could a criminal in this era expect not to happen if he was convicted of a crime?
+Answer: criminals were never imprisoned
+--------------------------------------------------------------------------------
+Prompt 799:
+Question: What does Flachenlander still have?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 800:
+Question: What do they call it when a protagonist wins? 
+Answer: triumph
+--------------------------------------------------------------------------------
+Prompt 801:
+Question: What must be a part of a states Gross Domestic Product in order for them to be considered for particpation in auctions?
+Answer: sovereign debt
+--------------------------------------------------------------------------------
+Prompt 802:
+Question: In 2000 roughly how much of the population had access to sanitation services?
+Answer: 69
+--------------------------------------------------------------------------------
+Prompt 803:
+Question: Who captured Multan in 1761?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 804:
+Question: Which regions experience the worst flooding in the US?
+Answer: Appalachian region and the Midwest
+--------------------------------------------------------------------------------
+Prompt 805:
+Question: When did Microsoft begin promoting Windows 8?
+Answer: October 2012
+--------------------------------------------------------------------------------
+Prompt 806:
+Question: What country has first tried to use single-phase AC?
+Answer: Hungary
+--------------------------------------------------------------------------------
+Prompt 807:
+Question: How much did a professor from outside of Kansas have to pay per course credit in 2014-15?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 808:
+Question: How many Jehovah's Witnesses are there now?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 809:
+Question: How long did Whitehead and Russell expect to spend creating Principia Mathematica?
+Answer: a year
+--------------------------------------------------------------------------------
+Prompt 810:
+Question: In what publication can examples of ex nihilo words be found?
+Answer: Aavik’s dictionary
+--------------------------------------------------------------------------------
+Prompt 811:
+Question: What was the name of Giovanni da Verrazzano's ship?
+Answer: La Dauphine
+--------------------------------------------------------------------------------
+Prompt 812:
+Question: What did Śuddhodana do to ensure that his son became a king instead of a holy man?
+Answer: prevented him from leaving the palace grounds
+--------------------------------------------------------------------------------
+Prompt 813:
+Question: Which of Holt's stances received some public opposition?
+Answer: commitment to the growing War in Vietnam
+--------------------------------------------------------------------------------
+Prompt 814:
+Question: For what reason did Rousseau feel people joined into civil society?
+Answer: to achieve unity while preserving individual freedom
+--------------------------------------------------------------------------------
+Prompt 815:
+Question: What degree of support did pro-Nasser factions in Lebanon receive?
+Answer: limited
+--------------------------------------------------------------------------------
+Prompt 816:
+Question: Where do Egyptians working abroad work mainly?
+Answer: Saudi Arabia, the Persian Gulf and Europe
+--------------------------------------------------------------------------------
+Prompt 817:
+Question: What program monitors progress toward improved sanitation?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 818:
+Question: What kind of room is maintained by the National Archives?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 819:
+Question: In 2010, what was the median salary for females in San Diego?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 820:
+Question: By about what number of votes did Schwarzenegger win the 2003 recall election in California?
+Answer: 1.3 million
+--------------------------------------------------------------------------------
+Prompt 821:
+Question: What are the three main types of autonomy?
+Answer: emotional independence, behavioral autonomy, and cognitive autonomy
+--------------------------------------------------------------------------------
+Prompt 822:
+Question: What does not draw attention to alternative forms of text?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 823:
+Question: What was the only party that helped pass Duverger's Law?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 824:
+Question: When was Rousseau's Discourse on Inequality published?
+Answer: 1754
+--------------------------------------------------------------------------------
+Prompt 825:
+Question: What date did the U.S. intervention in New Mexico end?
+Answer: 7 February 1917
+--------------------------------------------------------------------------------
+Prompt 826:
+Question: Who's Christology focuses on the death and Resurrection?
+Answer: Paul's Christology
+--------------------------------------------------------------------------------
+Prompt 827:
+Question: What did Piraeus Apollo hold in his right hand?
+Answer: a cup of pouring libation
+--------------------------------------------------------------------------------
+Prompt 828:
+Question: What Act clears the way for a National Communications Regulator?
+Answer: the National Communications Act
+--------------------------------------------------------------------------------
+Prompt 829:
+Question: In what year was the assertion made that the flat canvas supported Cubism?
+Answer: early as 1920
+--------------------------------------------------------------------------------
+Prompt 830:
+Question: What was the overwhelming reason for the decline of Native American populations?
+Answer: epidemic disease
+--------------------------------------------------------------------------------
+Prompt 831:
+Question: What did Burke say was problematic in his First letter?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 832:
+Question: How many people live in the Tulsa metro area?
+Answer: 937,478
+--------------------------------------------------------------------------------
+Prompt 833:
+Question: Which two companies produced DecoType?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 834:
+Question: What agricultural job did people settling in the area perform?
+Answer: farming
+--------------------------------------------------------------------------------
+Prompt 835:
+Question: Why did the U.K and France get involved with the war against the Russia?
+Answer: Russia's rejection of the ultimatum
+--------------------------------------------------------------------------------
+Prompt 836:
+Question: How many research labs does IBM have world wide?
+Answer: 12 research laboratories worldwide
+--------------------------------------------------------------------------------
+Prompt 837:
+Question: What companies still work on the CAFS decelerator?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 838:
+Question: Who won the most votes in the city in '08?
+Answer: Barack Obama
+--------------------------------------------------------------------------------
+Prompt 839:
+Question: What slowed the Japanese in their attacks on China?
+Answer: mountainous terrain
+--------------------------------------------------------------------------------
+Prompt 840:
+Question: What kind of philosophy did Steven Hawking believe in?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 841:
+Question: The concentration on students to live honorable lives is an example of what form of thought?
+Answer: Humanist
+--------------------------------------------------------------------------------
+Prompt 842:
+Question: What did Peirce later call his ideas instead of pragmatism?
+Answer: pragmaticism
+--------------------------------------------------------------------------------
+Prompt 843:
+Question: When and who abolished the serfdom?
+Answer: Russian Poland on February 19, 1864
+--------------------------------------------------------------------------------
+Prompt 844:
+Question: What system was examined to develop the neurobiological explanation of human emotion?
+Answer: limbic
+--------------------------------------------------------------------------------
+Prompt 845:
+Question: What does an ABC of 0.09% to 0.25% cause?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 846:
+Question: In a corrected audit, the state oil company NNPC was found to only owe how much to the government?
+Answer: US$1.48billion
+--------------------------------------------------------------------------------
+Prompt 847:
+Question: At which universities were canon law degrees abolished?
+Answer: Oxford and Cambridge
+--------------------------------------------------------------------------------
+Prompt 848:
+Question: King Philip renounced his right to the throne after what treaty?
+Answer: Treaty of Utrecht
+--------------------------------------------------------------------------------
+Prompt 849:
+Question: Who will never allocate UNFPA funding in the U.S.?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 850:
+Question: What are specially trained Digimon defending the world from?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 851:
+Question: Do most wide streets carry one-way or two-way traffic?
+Answer: two-way
+--------------------------------------------------------------------------------
+Prompt 852:
+Question: What did the Microsoft clones provide for consumers?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 853:
+Question: What exploded in 1912?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 854:
+Question: What group was invited to the US by the public in 1990?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 855:
+Question: Who placed more emphasis on observation than the Greeks did?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 856:
+Question: Who started a rebellion against Han in the year AD 40?
+Answer: The Trưng Sisters of Vietnam
+--------------------------------------------------------------------------------
+Prompt 857:
+Question: Why did old Persian retained its old characteristics long after the old Iranian languages
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 858:
+Question: What part of Houston ranks last in the U.S. in international tonnage?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 859:
+Question: When were remaining restrictions on the internet removed?
+Answer: 1995
+--------------------------------------------------------------------------------
+Prompt 860:
+Question: What 24-hour rapid transit system is in Philadelphia?
+Answer: PATCO Speedline
+--------------------------------------------------------------------------------
+Prompt 861:
+Question: What magazine did Larry McKinney contact?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 862:
+Question: Why were sites listed on the Internet Archive after August 2008?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 863:
+Question: Who overwhelmed the protesters in Japan?
+Answer: counter-protesters
+--------------------------------------------------------------------------------
+Prompt 864:
+Question: What years was the Royal Institute issued no supplemental charters?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 865:
+Question: In what century did the habit arise of pubs selling beer from only one brewery?
+Answer: 18th
+--------------------------------------------------------------------------------
+Prompt 866:
+Question: Until when was prose considered to need metrical lines?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 867:
+Question: What is the size of the Jewish community in Romania?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 868:
+Question: Which country consists of five administrative divisions?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 869:
+Question: What do families suggest?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 870:
+Question: Who wasn't the Warsaw Ballroom's house DJ?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 871:
+Question: What office did Emperor Ming create?
+Answer: Office for Price Adjustment and Stabilization
+--------------------------------------------------------------------------------
+Prompt 872:
+Question: By what did the US federal government provide contractual relations with Indian tribes following the Indian Appropriations Act of March 3, 1871?
+Answer: agreements, statutes, and executive orders
+--------------------------------------------------------------------------------
+Prompt 873:
+Question: What is the largest island near Zhejiang?
+Answer: Zhoushan Island
+--------------------------------------------------------------------------------
+Prompt 874:
+Question: What drugs are the least fundamental to develop?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 875:
+Question: In the 1850s, the Times was beginning to suffer from the rise in competition from what kind of press?
+Answer: the penny press
+--------------------------------------------------------------------------------
+Prompt 876:
+Question: How many of Congress' 29 vetoes did Johnson override?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 877:
+Question: What are risks called that generate severe adverse consequences with small probability but generous compensation the rest of the time?
+Answer: tail risks
+--------------------------------------------------------------------------------
+Prompt 878:
+Question: What is there a corresponding compression scheme between?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 879:
+Question: Which theorist wrote Two Treatises of Government?
+Answer: Locke
+--------------------------------------------------------------------------------
+Prompt 880:
+Question: What is the name of the feature that allows users to download games from Live?
+Answer: Xbox Live Arcade
+--------------------------------------------------------------------------------
+Prompt 881:
+Question: What is a landmark in the city 
+Answer: the old centre and the canal structure in the inner city
+--------------------------------------------------------------------------------
+Prompt 882:
+Question: When did HTML5 officially support side-by-side 3D footage?
+Answer: In May 2011
+--------------------------------------------------------------------------------
+Prompt 883:
+Question: Where is San Francisco's border crossing?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 884:
+Question: Most town people lived in what type of houses?
+Answer: terraced houses
+--------------------------------------------------------------------------------
+Prompt 885:
+Question: What is the dermis mainly consist of?
+Answer: bony structures and blood vessels
+--------------------------------------------------------------------------------
+Prompt 886:
+Question: What group has not preserved any cultural traditions?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 887:
+Question: Who was the main character in the third arc series?
+Answer: Tagiru Akashi and his partner Gumdramon
+--------------------------------------------------------------------------------
+Prompt 888:
+Question: When did Labour worsen its performance?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 889:
+Question: What diseases are considered fundamentally biological healing?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 890:
+Question: What contains disciplinary rules for Buddhist Monks and nuns?
+Answer: Vinaya Pitaka
+--------------------------------------------------------------------------------
+Prompt 891:
+Question: Who is a famous British player?
+Answer: Simon Mayor
+--------------------------------------------------------------------------------
+Prompt 892:
+Question: After the constitutional changes made in what year did Tito reduce his role in the day-to-day running of the state.
+Answer: 1974
+--------------------------------------------------------------------------------
+Prompt 893:
+Question: What remain powered even whenever the computer is powered off?
+Answer: Sleep-and-charge USB ports
+--------------------------------------------------------------------------------
+Prompt 894:
+Question: In what decade was Internet video-conferencing made possible?
+Answer: 1990s
+--------------------------------------------------------------------------------
+Prompt 895:
+Question: On what date did New York record its highest temperature ever?
+Answer: July 9, 1936
+--------------------------------------------------------------------------------
+Prompt 896:
+Question: Into what area did the Aryan culture expand?
+Answer: western Ganges plain
+--------------------------------------------------------------------------------
+Prompt 897:
+Question: During what dynasty did the Xiamen dialect develope?
+Answer: late Ming dynasty
+--------------------------------------------------------------------------------
+Prompt 898:
+Question: What is the impure silver dollar referred to as?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 899:
+Question: How old was Gladstone in 1829?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 900:
+Question: On what continent was the Book of Healing finally available fifty years after its composition?
+Answer: Europe
+--------------------------------------------------------------------------------
+Prompt 901:
+Question: How long did it take Columbia to produce a consumer friendly long play record?
+Answer: about eight years
+--------------------------------------------------------------------------------
+Prompt 902:
+Question: Who helped to build the college?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 903:
+Question: What was the final acquisition price paid by GE for Alstom?
+Answer: $17 billion
+--------------------------------------------------------------------------------
+Prompt 904:
+Question: How many copies of On the Origin of Species were created in the first printing?
+Answer: 1250 copies
+--------------------------------------------------------------------------------
+Prompt 905:
+Question: Was Texas a primarily a Spanish speaking state?
+Answer: Per the 1850 U.S. census, fewer than 16,000 Texans were of Mexican descent, and nearly all were Spanish-speaking people
+--------------------------------------------------------------------------------
+Prompt 906:
+Question: What is the worldwide leading cause of death?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 907:
+Question: What kind of crevasses form where steep slopes cause glaciers to deccelerate?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 908:
+Question: What groups does Congress make itself a resource for?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 909:
+Question: If there's a minimum amount of players it's usually what?
+Answer: seven
+--------------------------------------------------------------------------------
+Prompt 910:
+Question: What do hawks do when they want to drive away crows?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 911:
+Question: What do losers of the continental competition get to do?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 912:
+Question: What usually has about 10 race choices?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 913:
+Question: What festival receives more than 5,200 submissions annually?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 914:
+Question: What was Cobden an activist against?
+Answer: Corn Law
+--------------------------------------------------------------------------------
+Prompt 915:
+Question: When did specific studies of Slavic genetics begin?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 916:
+Question: Billy Joel and Elton John have both had what type of training?
+Answer: classical
+--------------------------------------------------------------------------------
+Prompt 917:
+Question: What is the Italian term for the prime minister?
+Answer: president of the council of ministers
+--------------------------------------------------------------------------------
+Prompt 918:
+Question: What can cause a loss of 2.5 square feet of natural habitat?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 919:
+Question: What did the foundation decide in 2009 
+Answer: In 2009, the Foundation decided to refocus its WASH effort mainly on sustainable sanitation services for the poor, using non-piped sanitation services
+--------------------------------------------------------------------------------
+Prompt 920:
+Question: Who is the editor-in-chief of the Comics Code Authority?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 921:
+Question: Which prize did Frederick Buechner create?
+Answer: Buechner Prize for Preaching
+--------------------------------------------------------------------------------
+Prompt 922:
+Question: How long did Alexander Hamilton serve as Treasury Secretary?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 923:
+Question: When did Prince and Smolensky develop their theory?
+Answer: 1991
+--------------------------------------------------------------------------------
+Prompt 924:
+Question: Who had increased access to better military technology?
+Answer: Shōen holders
+--------------------------------------------------------------------------------
+Prompt 925:
+Question: Where is corruption even more prevalent?
+Answer: non-privatized sectors
+--------------------------------------------------------------------------------
+Prompt 926:
+Question: What was 'high style'?
+Answer: archaic grammar and vocabulary
+--------------------------------------------------------------------------------
+Prompt 927:
+Question: What was the general response from scientific readers to Lamarck's written work?
+Answer: the transmutational ideas of Lamarck and the vague "law of development" of Vestiges had not found scientific favour
+--------------------------------------------------------------------------------
+Prompt 928:
+Question: Which district does not have exhibitions?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 929:
+Question: What is the name of popular book discussing the politics of New Haven published in the 50s?
+Answer: Democracy and Power in An American City
+--------------------------------------------------------------------------------
+Prompt 930:
+Question: The tool that was invented to stain only a small fractions of neurons was called what?
+Answer: the Golgi stain
+--------------------------------------------------------------------------------
+Prompt 931:
+Question: According to the American Journal of Human Genetics, what percentage of modern Iberian population has Sephardic Jewish ancestry?
+Answer: 19.8%
+--------------------------------------------------------------------------------
+Prompt 932:
+Question: How does secure boot help avert boot process infections?
+Answer: uses a public-key infrastructure to verify the integrity of the operating system
+--------------------------------------------------------------------------------
+Prompt 933:
+Question: What was the game in feudal territory was used as?
+Answer: food and furs
+--------------------------------------------------------------------------------
+Prompt 934:
+Question: Comic books aren't what type of books?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 935:
+Question: What was the population change from 2000 and 2010?
+Answer: .6%
+--------------------------------------------------------------------------------
+Prompt 936:
+Question: What is the term for the type of idealism preached by Leibniz?
+Answer: Panpsychism
+--------------------------------------------------------------------------------
+Prompt 937:
+Question: How long is the maximum cable length the USB 2.0 provides?
+Answer: 5 meters for devices running at Hi Speed
+--------------------------------------------------------------------------------
+Prompt 938:
+Question: When these feral dogs are approached by a person, they tend to do this 11% of the time?
+Answer: respond with aggression
+--------------------------------------------------------------------------------
+Prompt 939:
+Question: What month in Plymouth has the lowest temperatures?
+Answer: February
+--------------------------------------------------------------------------------
+Prompt 940:
+Question: Who was chosen as a premier in 1971 in Yugoslavia?
+Answer: Bijedić
+--------------------------------------------------------------------------------
+Prompt 941:
+Question: Who does the evaluations for drugs in the United Kingdom?
+Answer: European Medicines Agency
+--------------------------------------------------------------------------------
+Prompt 942:
+Question: Where did many of the San Francisco Zoo's exotic animals come from?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 943:
+Question: What nonprofit did Schwarzenegger found in 1995?
+Answer: the Inner City Games Foundation
+--------------------------------------------------------------------------------
+Prompt 944:
+Question: What served as the symbolic capital of France during World War I?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 945:
+Question: Political anthropology turned from complex socities to what?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 946:
+Question: In what year was the viaduct along 155th Street constructed?
+Answer: 1893
+--------------------------------------------------------------------------------
+Prompt 947:
+Question: Against which team does Notre Dame compete for the Jeweled Shillelagh?
+Answer: USC
+--------------------------------------------------------------------------------
+Prompt 948:
+Question: What group were Jews being persecuted by in Europe?
+Answer: their Christian counterparts
+--------------------------------------------------------------------------------
+Prompt 949:
+Question: What was the common name for the Spanish sign?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 950:
+Question: What did a criminal infringer do to be prosecuted?
+Answer: for the purpose of commercial advantage or private financial gain
+--------------------------------------------------------------------------------
+Prompt 951:
+Question: In what month did Cao Cao die?
+Answer: March
+--------------------------------------------------------------------------------
+Prompt 952:
+Question: What else besides vowels did Bell decide could be created?
+Answer: consonants
+--------------------------------------------------------------------------------
+Prompt 953:
+Question: When is the Monlam Prayer Festival?
+Answer: between the fourth and the eleventh days of the first Tibetan month
+--------------------------------------------------------------------------------
+Prompt 954:
+Question: At what battle were the Germans defeated?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 955:
+Question: What company was Dell behind in profits in 2014?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 956:
+Question: What kind of systems did branches focus on?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 957:
+Question: Which government official urged that indigenous features be used in the design of New Delhi?
+Answer: Viceroy Lord Hardinge
+--------------------------------------------------------------------------------
+Prompt 958:
+Question:  What style did the old style of mandolins supplant?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 959:
+Question: What 2010 body found how easy it is to accurately report the financial impact of infringement?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 960:
+Question:  What don't phosphor-based LEDs luminous efficacies depend on?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 961:
+Question: What company did Compaq merge with in 2002?
+Answer: Hewlett Packard
+--------------------------------------------------------------------------------
+Prompt 962:
+Question: In what concept is the MoD considered a leader?
+Answer: defence diplomacy
+--------------------------------------------------------------------------------
+Prompt 963:
+Question: On what street is the New York Stock Exchange headquartered?
+Answer: Wall Street
+--------------------------------------------------------------------------------
+Prompt 964:
+Question: What can be found on every continent of the world?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 965:
+Question: What did task forces for the public want to foster in the minority party?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 966:
+Question: Why were the Portugese Africa territories' borders formally established?
+Answer: to protect the centuries-long Portuguese interests in the continent from rivalries enticed by the Scramble for Africa
+--------------------------------------------------------------------------------
+Prompt 967:
+Question: Who was Mellitus?
+Answer: a Bishop of London
+--------------------------------------------------------------------------------
+Prompt 968:
+Question: What do forests in the Congo not have to face?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 969:
+Question: How might some groups have resulted, according to the ideology?
+Answer: mixture between formerly distinct populations
+--------------------------------------------------------------------------------
+Prompt 970:
+Question: What realization did Whitehead believe religion made necessary?
+Answer: "the value of the objective world which is a community derivative from the interrelations of its component individuals."
+--------------------------------------------------------------------------------
+Prompt 971:
+Question: How many of the extant fungi in Antarctica are lichen-forming?
+Answer: 400
+--------------------------------------------------------------------------------
+Prompt 972:
+Question: What were the floor panels of the caliphs and high ranking officials modeled after?
+Answer: Roman country villas
+--------------------------------------------------------------------------------
+Prompt 973:
+Question: Of what nationality is the person who called Somalia a "Nation of Bards"?
+Answer: Canadian
+--------------------------------------------------------------------------------
+Prompt 974:
+Question: in 1838 what company did the  East india dock company merge with? 
+Answer: West India Dock Company
+--------------------------------------------------------------------------------
+Prompt 975:
+Question: Why weren't swaps registered as debts by Eurostat at the time?
+Answer: ignored statistics involving financial derivatives
+--------------------------------------------------------------------------------
+Prompt 976:
+Question: What are the desirable properties of MOSFETs?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 977:
+Question: What age was Ibn Sina born in?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 978:
+Question: Where was Hrothgar found as a baby?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 979:
+Question: People were looking for polynomial equations under what number?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 980:
+Question: What does the Ino-European migration theory explain?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 981:
+Question: What dates back to 1896?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 982:
+Question: How was the migrating of ospretys and honey buzzards tracked?
+Answer: Satellite
+--------------------------------------------------------------------------------
+Prompt 983:
+Question: How many people were displaced in the unrests?
+Answer: 200,000
+--------------------------------------------------------------------------------
+Prompt 984:
+Question: What is resistance to infection known informally as?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 985:
+Question: What is kleptoparasitism?
+Answer: stealing food items from other birds
+--------------------------------------------------------------------------------
+Prompt 986:
+Question: What is the largest university library?
+Answer: Sorbonne Library
+--------------------------------------------------------------------------------
+Prompt 987:
+Question: What county is home to The Old 13th Cheshire Rifleman Corps Inn?
+Answer: Cheshire
+--------------------------------------------------------------------------------
+Prompt 988:
+Question: What is another name for the surface-mount transistor?
+Answer: surface-mount device (SMD)
+--------------------------------------------------------------------------------
+Prompt 989:
+Question: Which country has the highest rate of mammals by area unit worldwide?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 990:
+Question: England accounts for almost 25% of the total population of where?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 991:
+Question: For how long have Jews not spoken the local languages of the regions they migrated to?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 992:
+Question: In their study what did people say they say when they really hadn't due to having the word "smashed" inserted into the question?
+Answer: broken glass
+--------------------------------------------------------------------------------
+Prompt 993:
+Question: Which popular global publisher utilizes sentence case for titles and headers?
+Answer: International Organization for Standardization
+--------------------------------------------------------------------------------
+Prompt 994:
+Question: What role is performed by Monica Bellucci?
+Answer: Lucia Sciarra
+--------------------------------------------------------------------------------
+Prompt 995:
+Question: How long do ITPs last?
+Answer: allow incidental takes for varying amounts of time
+--------------------------------------------------------------------------------
+Prompt 996:
+Question: Whether one partakes in practices or beliefs, the label Christian is sometimes attached because they associate with what?
+Answer: the cultural aspects of Christianity
+--------------------------------------------------------------------------------
+Prompt 997:
+Question: American Federalism can also be considered tripartite because of the presence of what?
+Answer: Indian reservations
+--------------------------------------------------------------------------------
+Prompt 998:
+Question: What changes the most in a grounded-emitter transistor circuit?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 999:
+Question: In what year did Jonathan Nolan become a screenwriter?
+Answer: No answer
+--------------------------------------------------------------------------------
+Prompt 1000:
+Question: When was 'The World In Grey' published?
+Answer: 2008
+--------------------------------------------------------------------------------
